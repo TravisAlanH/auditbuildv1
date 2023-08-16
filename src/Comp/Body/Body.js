@@ -7,6 +7,7 @@ import AisleRow from "./Tabs/AisleRow";
 export default function Body() {
     const [show, setShow] = React.useState([1, 0, 0, 0, 0, 0, 0, 0]);
     const [location, setLocation] = React.useState([]);
+    const [aisle, setAisle] = React.useState([]);
 
     return (
         <div>
@@ -16,7 +17,13 @@ export default function Body() {
                 show={show}
                 setShow={setShow}
             />
-            {/* <AisleRow show={show} setShow={setShow} /> */}
+
+            <AisleRow
+                aisle={aisle}
+                setAisle={setAisle}
+                show={show}
+                setShow={setShow}
+            />
         </div>
     );
 

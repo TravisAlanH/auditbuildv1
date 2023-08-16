@@ -2,56 +2,110 @@ import React from "react";
 import Steps from "../../../Templates/Templates";
 import LabelInput from "../../Reuse/LabelInput";
 
-export default function AisleRow({ location, setLocation, show, setShow }) {
-    function SubmitLocation(e) {
+export default function Location({ aisle, setAisle, show, setCurrentPage }) {
+    const TemplateData = Steps.AddAisleAndRow;
+    const [holdAisle, setHoldAisle] = React.useState(aisle);
+
+    function Build(e) {
         e.preventDefault();
-        setLocation([
-            e.target[0].value,
-            e.target[1].value,
-            e.target[2].value,
-            e.target[3].value,
-            e.target[4].value,
-            e.target[5].value,
-        ]);
-        setShow([0, 0, 1, 0, 0, 0, 0, 0]);
+        let holdIndex = 0;
+        let rowIndex = 0;
+
+        for (let i = 0; i < e.target.length; i++) {
+            if (e.target[i].value === "END") {
+                break;
+            } else if (i === 0 || e.target[i - 1].value === "") {
+                holdAisle[holdIndex].AisleName = e.target[i].value;
+                continue;
+            } else if (
+                e.target[i].value !== "" &&
+                e.target[i].value !== "END"
+            ) {
+                holdAisle[holdIndex].Rows[rowIndex] = e.target[i].value;
+                rowIndex++;
+                continue;
+            } else if (e.target[i].value === "") {
+                holdIndex++;
+                rowIndex = 0;
+                continue;
+            }
+        }
+
+        setAisle(holdAisle);
+        setCurrentPage(2);
+    }
+
+    function AddAisle(e) {
+        e.preventDefault();
+        let ARData = {
+            AisleName: "Aisle",
+            Rows: new Array(0),
+            Location: "",
+            Operation: "ADD",
+            Object: "SUBLOCATION",
+        };
+        let TempAisle = [...holdAisle];
+        TempAisle.push(ARData);
+        setHoldAisle(TempAisle);
     }
 
     if (show[1] === 0) {
         return (
             <div>
-                <h1>
-                    {location[1]} {location[4]}
-                </h1>
-                <button onClick={() => setShow([0, 1, 0, 0, 0, 0, 0, 0])}>
-                    Edit
+                <button onClick={() => setCurrentPage(1)}>
+                    Edit Aisle and Row
                 </button>
             </div>
         );
     } else {
         return (
-            <div>
-                <form onSubmit={SubmitLocation}>
-                    {Steps.AddAisleAndRow[0].Data.map((item, index) => {
-                        let Base = "Set";
-                        let Operation = "ADD";
-                        let Object = "LOCATION";
-                        let value = item;
-                        // if (location.length !== 0) value = location[index];
-                        if (index === 0 || index === 1) Base = "";
-                        if (index === 0) value = Operation;
-                        if (index === 1) value = Object;
-                        return (
+            <form onSubmit={Build}>
+                {holdAisle.map((item, index) => {
+                    return (
+                        <div key={index}>
                             <LabelInput
-                                Label={item}
-                                value={value}
-                                Base={Base}
-                                key={index}
+                                Label={"Aisle Name: "}
+                                value={"Aisle" + (index + 1)}
                             />
-                        );
-                    })}
+                            {item.Rows.length !== 0 ? (
+                                <div className="bg-slate-400">
+                                    {item.Rows.map((row, RowIndex) => {
+                                        return (
+                                            <div key={RowIndex}>
+                                                <LabelInput
+                                                    Label={"Row Name: "}
+                                                    value={
+                                                        "A" +
+                                                        (index + 1) +
+                                                        "R" +
+                                                        (RowIndex + 1)
+                                                    }
+                                                />
+                                            </div>
+                                        );
+                                    })}
+                                </div>
+                            ) : (
+                                <div></div>
+                            )}
+                            <button
+                                onClick={(e) => {
+                                    e.preventDefault();
+                                    item.Rows.push("");
+                                    setHoldAisle([...holdAisle]);
+                                }}
+                            >
+                                Add Row
+                            </button>
+                        </div>
+                    );
+                })}
+                <input type="hidden" value="END" />
+                <div className="flex flex-col">
+                    <button onClick={AddAisle}>Add Aisle</button>
                     <input type="submit" value="Submit" />
-                </form>
-            </div>
+                </div>
+            </form>
         );
     }
 }
