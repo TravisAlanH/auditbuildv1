@@ -27,7 +27,7 @@ export default function Location({ aisle, setAisle, show, setShow }) {
         continue;
       }
     }
-
+    setHoldAisle(holdAisle);
     setAisle(holdAisle);
     setShow([0, 0, 1, 0, 0, 0, 0, 0]);
   }
@@ -46,50 +46,56 @@ export default function Location({ aisle, setAisle, show, setShow }) {
     setHoldAisle(TempAisle);
   }
 
-  if (show[1] === 0) {
-    return (
-      <div>
-        <button onClick={() => setShow([0, 1, 0, 0, 0, 0, 0, 0])}>Edit Aisle and Row</button>
-      </div>
-    );
-  } else {
-    return (
-      <form onSubmit={Build}>
-        {holdAisle.map((item, index) => {
-          return (
-            <div key={index}>
-              <LabelInput Label={"Aisle Name: "} value={"Aisle" + (index + 1)} />
-              {item.Rows.length !== 0 ? (
-                <div className="bg-slate-400">
-                  {item.Rows.map((row, RowIndex) => {
-                    return (
-                      <div key={RowIndex}>
-                        <LabelInput Label={"Row Name: "} value={"A" + (index + 1) + "R" + (RowIndex + 1)} />
-                      </div>
-                    );
-                  })}
-                </div>
-              ) : (
-                <div></div>
-              )}
-              <button
-                onClick={(e) => {
-                  e.preventDefault();
-                  item.Rows.push("");
-                  setHoldAisle([...holdAisle]);
-                }}
-              >
-                Add Row
-              </button>
-            </div>
-          );
-        })}
-        <input type="hidden" value="END" />
-        <div className="flex flex-col">
-          <button onClick={AddAisle}>Add Aisle</button>
-          <input type="submit" value="Submit" />
+  return (
+    <div className="bg-slate-300">
+      {show[1] === 0 ? (
+        // Small
+        <div>
+          <button onClick={() => setShow([0, 1, 0, 0, 0, 0, 0, 0])}>Edit Aisle and Row</button>
         </div>
-      </form>
-    );
-  }
+      ) : (
+        // Large
+        <div>
+          <form onSubmit={Build}>
+            {holdAisle.map((item, index) => {
+              let rowIndex = item.Rows.length + 1;
+              return (
+                <div key={index}>
+                  <LabelInput Label={"Aisle Name: "} value={"Aisle" + (index + 1)} />
+                  {item.Rows.length !== 0 ? (
+                    <div className="bg-slate-400">
+                      {item.Rows.map((row, RowIndex) => {
+                        return (
+                          <div key={RowIndex}>
+                            <LabelInput Label={"Row Name: "} value={row} />
+                          </div>
+                        );
+                      })}
+                    </div>
+                  ) : (
+                    <div></div>
+                  )}
+                  <button
+                    onClick={(e) => {
+                      e.preventDefault();
+                      item.Rows.push("A" + (index + 1) + "R" + rowIndex);
+                      rowIndex = item.Rows.length + 1;
+                      setHoldAisle([...holdAisle]);
+                    }}
+                  >
+                    Add Row
+                  </button>
+                </div>
+              );
+            })}
+            <input type="hidden" value="END" />
+            <div className="flex flex-col">
+              <button onClick={AddAisle}>Add Aisle</button>
+              <input type="submit" value="Submit" />
+            </div>
+          </form>{" "}
+        </div>
+      )}
+    </div>
+  );
 }
