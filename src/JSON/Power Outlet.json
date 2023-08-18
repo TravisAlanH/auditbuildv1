@@ -1,0 +1,86 @@
+[
+    {
+        "Make *": "Eaton",
+        "Model Name *": "PDI PowerWave 2",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 01",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 02",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 03",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 04",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 05",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 07",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 08",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 09",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Universal Electric Corporation",
+        "Model Name *": "Starline Type 10",
+        "Class *": "Power Outlet",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Legrand",
+        "Model Name *": "572139",
+        "Class *": "Power Outlet",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Generic Outlet Box",
+        "Class *": "Power Outlet",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Generic Power Outlet",
+        "Class *": "Power Outlet",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "Power Outlet Box",
+        "Class *": "Power Outlet",
+        "Rack Units *": "3"
+    }
+]

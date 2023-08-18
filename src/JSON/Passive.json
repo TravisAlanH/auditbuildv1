@@ -1,0 +1,3626 @@
+[
+    {
+        "Make *": "APC",
+        "Model Name *": "10RU-Blanking-Plate-APC",
+        "Class *": "Passive",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "10U Blanking Plate (APC)",
+        "Class *": "Passive",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "11374-X03",
+        "Class *": "Passive",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "11729-703 (Wire Manager)",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "11730-703 (Wire Manager)",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "11RU-Blanking Plate-CPI",
+        "Class *": "Passive",
+        "Rack Units *": "11"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "12573-719 (Shelf)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "12RU Blanking Panel",
+        "Class *": "Passive",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "12RU-Blanking Plate-CPI",
+        "Class *": "Passive",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "13512-701",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "13517-701",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "DatWyler",
+        "Model Name *": "1411480-Cable Management",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "DatWyler",
+        "Model Name *": "1411604-Cable Management",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Cisco Systems",
+        "Model Name *": "15454E-AIR-RAMP (Shelf)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "R&M",
+        "Model Name *": "19â€³ 1U HD Cable Mgmt",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Afco",
+        "Model Name *": "19-1U Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "OSIRIONE",
+        "Model Name *": "\"19\"\"6HE 576-F LC/PC SM OS2\"",
+        "Class *": "Passive",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Angled Blanking-Panduit",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Angled Blanking Plate-Siemon",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1RU Blanking Panel",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Amp Netconnect",
+        "Model Name *": "1RU-Blanking Plate-AMP",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Blanking Plate-APC",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Blanking Plate AR8136BLK200",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "1RU-Blanking Plate-BRP-19-1-75",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "1RU-Blanking Plate-BRP-23-1-75",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Blanking Plate-CPI",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Data Domain",
+        "Model Name *": "1RU-Blanking Plate -Data Domain",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Rittal",
+        "Model Name *": "1RU-Blanking Plate-DK 7256.035-1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hoffman",
+        "Model Name *": "1RU-Blanking Plate-Hoffman",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "1RU-Blanking Plate-HP",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "1RU-Blanking Plate-Hubbell",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Blanking Plate-Ortronics",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Actiontec",
+        "Model Name *": "1RU-Blanking Plate-Ortronics-IDA4",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Actiontec",
+        "Model Name *": "1RU-Blanking Plate-Ortronics-IDA5",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Blanking Plate-Panduit",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "1RU-Blanking Plate-PWACC9970948",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Blanking Plate-Siemon",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Systimax",
+        "Model Name *": "1RU-Blanking Plate-Systimax",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Siemon",
+        "Model Name *": "1RU-Brush Guard Panel",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1RU Brush Wire Management",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU Cable Manager",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Huber + Suhner",
+        "Model Name *": "1RU-Fiber Cassette",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1RU-Generic Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1RU Grounding Bar",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1RU Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "1RU-Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "General Projection",
+        "Model Name *": "1RU-Shelf 1/2",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Shelf-12751-719",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Shelf-15245-X01",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Shelf-15245-X02",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Shelf-15245-X03",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Shelf-15245-X04",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "1RU-Shelf-234672-B21",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "1RU-Shelf-253449-B21",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Shelf AR8122BLK",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Shelf AR8123BLK",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Shelf AR8126",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Shelf AR8128BLK",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hoffman",
+        "Model Name *": "1RU-Shelf-D19FVT69B",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hoffman",
+        "Model Name *": "1RU-Shelf-D19FVT69G",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hoffman",
+        "Model Name *": "1RU-Shelf-D19FVT912B",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hoffman",
+        "Model Name *": "1RU-Shelf-D19FVT912G",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "1RU-Shelf E2SHSS1930B",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "1RU-Shelf-Middle Atlantic",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "1RU-Shelf OZC",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Shelf-Panduit",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "1RU-Shelf QRSV65",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "1RU-Shelf SB747V19153",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Tripp Lite",
+        "Model Name *": "1RU-Shelf SRSHELF2P1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "1RU-Shelf Vented Beige",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ADC",
+        "Model Name *": "1RU-Tray-FMT",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1RU Wire Management",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1RU Wire Manager",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Wire Manager",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-11564-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-11564-X23",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-11564-X25",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-11752-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-11752-X23",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-11752-X25",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-12183-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-12183-X23",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-12185-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-12185-X23",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-12541-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-13070-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-30139-719",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-30139-723",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-30339-723",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-30529-719",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "1RU-Wire Manager-30529-723",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Amp Netconnect",
+        "Model Name *": "1RU-Wire Manager-558329-1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Wire Manager AR8425A",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Wire Manager AR8429",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Wire Manager AR8602",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "1RU-Wire Manager-CDF-CJT-01U-19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "1RU-Wire Manager-CJP-01U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-CMPH1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-CMPH123",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-CMPHF1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-CMPHF123",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-CMPHHF1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-CWMPH1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Rittal",
+        "Model Name *": "1RU-Wire Manager-DK 7257.035",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "1RU-Wire Manager-ECL-J1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "1RU-Wire Manager-ECL-J1U-EL",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "1RU-Wire Manager-HC119ME#N",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Systimax",
+        "Model Name *": "1RU-Wire Manager HTK-19-SS-1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "1RU-Wire Manager-MCCMP1USAD",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "1RU-Wire Manager-MCCWMP175P419",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-NM1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-NMF1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Wire Manager-OR-60400129",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Wire Manager-OR-60400131",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Wire Manager-OR-60400135",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Wire Manager-OR-60400189",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Wire Manager-OR-808004759",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Wire Manager-OR-808045590",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Wire Manager-OR-808045768",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "1RU-Wire Manager-Ortronics",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-PAN-WMPFSE",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1RU-Wire Manager PRM",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "1RU-Wire Manager-PWACC9970953",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Wire Manager-RS3-RWM-1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Wire Manager-RS-RWM-1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Wire Manager-RWM-1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Wire Manager-RWM-1DS",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Wire Manager-S110-RWM",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Wire Manager-S110-RWM-DS",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Uniprise",
+        "Model Name *": "1RU-Wire Manager-UN-PCO-C3",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Verizon",
+        "Model Name *": "1RU-Wire Manager-Verizon",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "1RU-Wire Manager-WM-143-5",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "1RU-Wire Manager-WMPLFSE",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Tripp Lite",
+        "Model Name *": "1RU-WM SRCABLEDUCT1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Tripp Lite",
+        "Model Name *": "1RU-WM SRCABLERING1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "1U Blank Pannel",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Siemon",
+        "Model Name *": "1U Brush Guard Panel",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Radiant Communications Corporation",
+        "Model Name *": "1U Fiber Enclosure",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "20RU-Blanking Plate-Ortronics",
+        "Class *": "Passive",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "234672-B21",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Leviton",
+        "Model Name *": "24Port Cat 5e Panel",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "2RU",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "ADC",
+        "Model Name *": "2RU-28Port Panel",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "ADC",
+        "Model Name *": "2RU-64Port Panel",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Angled Blanking Plate-Siemon",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Blanking Angled Plat",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2RU Blanking Panel",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Blanking Plate",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Amp Netconnect",
+        "Model Name *": "2RU-Blanking Plate-AMP",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Blanking Plate-APC",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "2RU-Blanking Plate-BRP-19-2-75",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "2RU-Blanking Plate-BRP-23-2-75",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Blanking Plate-CPI",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Data Domain",
+        "Model Name *": "2RU-Blanking Plate -Data Domain",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hoffman",
+        "Model Name *": "2RU-Blanking Plate-Hoffman",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "2RU-Blanking Plate-HP",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU-Blanking Plate-Hubbell",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Blanking Plate-Panduit",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Blanking Plate-Siemon",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Systimax",
+        "Model Name *": "2RU-Blanking Plate-Systimax",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2RU Cable Management",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU Cable Management - Hubbell",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "EMC",
+        "Model Name *": "2RU-Filler",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2RU-Generic Wire Manager",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2RU Metal Shield",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2RU Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "2RU-Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Shelf-12752-719",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "2RU-Shelf-361591-B21",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Afco",
+        "Model Name *": "2RU-Shelf-Afco",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Shelf AR8105BLK",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Shelf AR8127BLK",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "2RU-Shelf E2SH4P1924",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Newton",
+        "Model Name *": "2RU-Shelf-Newton",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "2RU-Shelf Sliding Beige",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "2RU-Shelf Sliding Black",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Huber + Suhner",
+        "Model Name *": "2RU-Standard Tray Unit",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "ADC",
+        "Model Name *": "2RU-Tray-FMT",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2RU Wire Management",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2RU Wire Manager",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-11496-X19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-11564-119",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-11753-X19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-11753-X23",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-11753-X25",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-12187-X19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-12187-X23",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-12542-X19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-13075-X19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-13075-X19()",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-30130-719",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-30130-723",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-30330-719",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-30330-723",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-30530-719",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-30530-723",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "2RU-Wire Manager-35441-702",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Amp Netconnect",
+        "Model Name *": "2RU-Wire Manager-558331-1",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Wire Manager AR8426A",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Wire Manager AR8427A",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Wire Manager AR8428",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Wire Manager AR8600",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Wire Manager AR8601",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "2RU-Wire Manager AR8603",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Belden",
+        "Model Name *": "2RU-Wire Manager BHH192UC",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "2RU-Wire Manager-CDF-CJT-02U-19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "2RU-Wire Manager-CJP-02U",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-CMPH2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-CMPH223",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-CMPH2W",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-CMPHF2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-CMPHF223",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-CMPHH2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "2RU-Wire Manager-ECL-J2U",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU-Wire Manager-HC219ME#N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Systimax",
+        "Model Name *": "2RU-Wire Manager HTK-19-SS-2U",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU-Wire Manager-MCCMP2U",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU-Wire Manager-MCCMP2UDF",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU-Wire Manager-MCCMP2USAD",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU-Wire Manager-MCCWMP35P419",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU-Wire Manager-MCCWMP35P419XL",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-NCMHF2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-NM2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-NMF2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-60400057",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-60400099",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-60400114",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-60400426",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-808004410",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-808004818",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-808044855",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-808044915",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "2RU-Wire Manager-OR-808045201",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "2RU-Wire Manager OZC-SB719192XL",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-Plastic Raceway",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "2RU-Wire Manager-PWACC9970954",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Wire Manager-RS3-RWM-2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Wire Manager-RS3-RWM-2DS",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Wire Manager-RS-RWM-2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Wire Manager-RS-RWM-2DS",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Wire Manager-S110-RWM2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Wire Manager-S110-RWM2-DS",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Uniprise",
+        "Model Name *": "2RU-Wire Manager-UN-PCO-C1",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Uniprise",
+        "Model Name *": "2RU-Wire Manager-UN-PCO-C2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Wire Manager-WM-144-5",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "2RU-Wire Manager-WM-145-5",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-WMPF1",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "2RU-Wire Manager-WMPHF2E",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "2RU-Wire Manager-XXX1602",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Amp Netconnect",
+        "Model Name *": "2U Cable Manager",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hitachi",
+        "Model Name *": "2U Filter",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "R&M",
+        "Model Name *": "2U R&M Cable Manager",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30130-X19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30130-X23",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30131-X19",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30131-X23",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30139-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30139-X23",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30162-703 (Wire Manager)",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30330-X19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30330-X23",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30331-X19",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30331-X23",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30339-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30339-X23",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30529-X19",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30529-X23",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30530-X19",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30530-X23",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30531-X19",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "30531-X23",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "35441-702",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "35441-703",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Systimax",
+        "Model Name *": "360-IMV-CNTRLR",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "3RU Blanking Panel",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "3RU-Blanking Panel",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "3RU-Blanking Plate",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "3RU-Blanking Plate-BRP-19-3-75",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "3RU-Blanking Plate-BRP-23-3-75",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "3RU-Blanking Plate-PWACC9970949",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "3RU-Blanking Plate-Siemon",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Systimax",
+        "Model Name *": "3RU-Blanking Plate-Systimax",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Huber + Suhner",
+        "Model Name *": "3RU-Fiber Cassette",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "EMC",
+        "Model Name *": "3RU-Filler",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "3RU Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "3RU-Shelf AR8422",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "3RU-Shelf E2SHCLP1915B",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Newton",
+        "Model Name *": "3RU-Shelf-Newton",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "3RU-Shelf SB742T19BG",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "B-Line",
+        "Model Name *": "3RU-Shelf SB747V1915S",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Huber + Suhner",
+        "Model Name *": "3RU-Standard Tray Unit",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "3RU-Wire Manager-30131-719",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "3RU-Wire Manager-30131-723",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "3RU-Wire Manager-30331-719",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "3RU-Wire Manager-30331-723",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "3RU-Wire Manager-30531-719",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "3RU-Wire Manager-30531-723",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "3RU-Wire Manager-35441-703",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "3RU-Wire Manager-CJP-03U",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "3RU-Wire Manager-ECL-J3U",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "3RU-Wire Manager-HC319ME#N",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Systimax",
+        "Model Name *": "3RU-Wire Manager HTK-19-SS-3U",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "3RU-Wire Manager-NM3",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "3RU-Wire Manager-NMF3",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "3RU-Wire Manager-OR",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "3RU-Wire Manager-RS-RWM-4",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Hitachi",
+        "Model Name *": "3U Filter",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Leviton",
+        "Model Name *": "48Port Cat 5e Panel",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "4RU Blanking Panel",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "4RU-Blanking Plate",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "4RU-Blanking Plate-APC",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "4RU-Blanking Plate-BRP-19-4-75",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "4RU-Blanking Plate-BRP-23-4-75",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "4RU-Blanking Plate-CPI",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Data Domain",
+        "Model Name *": "4RU-Blanking Plate -Data Domain",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "4RU-Blanking Plate-HP",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "4RU-Blanking Plate-Hubbell",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "4RU-Blanking Plate-Panduit",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "4RU-Blanking Plate-Siemon",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "4RU-Generic Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "4RU-Wire Manager-MCC7CT",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "4RU-Wire Manager-NM4",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "4RU-Wire Manager-NMF4",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Ortronics",
+        "Model Name *": "4RU-Wire Manager-OR-60400054",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "4RU-Wire Manager-RS3-RWM-4",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "4RU-Wire Manager-RS-RWM-4",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Startech",
+        "Model Name *": "4U-Black Steel Storage Drawer",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "4U BLANK PANEL",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Leviton",
+        "Model Name *": "5R1UX-CMT",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "5RU Blanking Panel",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "5RU Blanking Plate",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "5RU-Blanking Plate-BRP-19-5-75",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "5RU-Blanking Plate-BRP-23-5-75",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "The Siemon Company",
+        "Model Name *": "5RU-Blanking Plate-Siemon",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Dell",
+        "Model Name *": "5U HyperShelf",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "6RU Fiber Box (Storage)",
+        "Class *": "Passive",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Clearfield Connection",
+        "Model Name *": "6RU Fiber Panel",
+        "Class *": "Passive",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Great Lakes",
+        "Model Name *": "7217-F",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "72X83X32 TABLE",
+        "Class *": "Passive",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "760072942",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "760072959",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "760103085",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "760147439",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "760147447",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "7693531-00",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ADC",
+        "Model Name *": "77020 Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "7RU-Blanking Plate-CPI",
+        "Class *": "Passive",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Huber + Suhner",
+        "Model Name *": "7RU-Standard Tray Unit",
+        "Class *": "Passive",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "8RU Blanking Panel",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "8RU-Blanking Plate-APC",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "8RU-Blanking Plate-CPI",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Data Domain",
+        "Model Name *": "8RU-Blanking Plate -Data Domain",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "8RU-Blanking Plate-HP",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "8RU-Blanking Plate-Panduit",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "9RU-Blanking Plate-CPI",
+        "Class *": "Passive",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Minkels",
+        "Model Name *": "A3BF-750-1200",
+        "Class *": "Passive",
+        "Rack Units *": "0"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACAC10005",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Startech",
+        "Model Name *": "AdJSHELFHD",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Toshiba",
+        "Model Name *": "AIRCOMMAND Mobile Console via Tablet PC",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Great Lakes",
+        "Model Name *": "AM-ES (1U Air Manager)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Aperture",
+        "Model Name *": "Aperature 4U",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR7588",
+        "Class *": "Passive",
+        "Rack Units *": "50"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8109BLK",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8136BLK",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8161",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8162ABLK",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8162BLK",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8163BLK",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8171",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8172BLK",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8178BLK",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8184",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8425A",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8442",
+        "Class *": "Passive",
+        "Rack Units *": "18"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8602A",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8603A",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8606",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8612",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AR8612A",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Afco",
+        "Model Name *": "AS-BPS-12-1RU",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Cisco Systems",
+        "Model Name *": "ASR-9001-PLENUM ASR",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Telegaertner",
+        "Model Name *": "Base Box V - 1 U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Telegaertner",
+        "Model Name *": "Base Box V - 3 U",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Legrand",
+        "Model Name *": "BFPT-1RU-10-W",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "BR1B",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "DatWyler",
+        "Model Name *": "Brush Strip Panel",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Great Lakes",
+        "Model Name *": "C877309 1RU Cable Manager",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Great Lakes",
+        "Model Name *": "C967764 2RU Cable Manager",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Aperture",
+        "Model Name *": "Cable Management 1-2U",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Aperture",
+        "Model Name *": "Cable Management 19-1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Cable Management 19-2U",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Aperture",
+        "Model Name *": "Cable Management 19-3U",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Aperture",
+        "Model Name *": "Cable Management 19-4U",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC848809178 595LT Filler Bracket Dual Rectifier Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "CDE1 Cabinet Air Inlet Duct",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "CDE2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "EMC",
+        "Model Name *": "Clariion CX4 120 UPS Tray",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EMC",
+        "Model Name *": "Clariion UPS Tray",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "CMPHH2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Wirewerks",
+        "Model Name *": "CMT-1U-12",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Wirewerks",
+        "Model Name *": "CMT-2U-12",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Crestron",
+        "Model Name *": "CNXRMAK",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "ProLabs",
+        "Model Name *": "CWDM-MUX-8X1S",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "D3",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "D4",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "D5",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "DPFP1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GDC",
+        "Model Name *": "DS-01 DataComm Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "DSCM-100 Type 1 C-band SC",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ciena",
+        "Model Name *": "DSCM-100 Type 1 C-band SC (NTT870AL)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ciena",
+        "Model Name *": "DSCM-110 Type 1 C-band SC (NTT870AM)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ciena",
+        "Model Name *": "DSCM-140 Type 1 C-band SC (NTT870AQ)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "DSCM-70 Type 1 C-band SC",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Ciena",
+        "Model Name *": "DSCM-70 Type 1 C-band SC (NTT870AH)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Quantum",
+        "Model Name *": "DXi8500 Blanking Plate",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "EDGE-01U-EMOD",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Corning",
+        "Model Name *": "EDGE8-EMOD-01U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Schrofftech",
+        "Model Name *": "EuropacPro",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "Evolution Horizontal Cable Manager 35441-701",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Homaco",
+        "Model Name *": "FCM-19-1XL",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH376C-AA00S732",
+        "Class *": "Passive",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Ciena",
+        "Model Name *": "Fiber Management Tray",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "Fiber Management Tray With DSCM",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Fiber MDU Converter Box",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Aperture",
+        "Model Name *": "Fiber Shelf 1.75x17.5x11",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Cisco Systems",
+        "Model Name *": "Fiber Storage",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Alcatel-Lucent",
+        "Model Name *": "Fiber Storage Tray",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "NOKIA",
+        "Model Name *": "Fiber Storage Tray (Nokia)",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "FLBSIM-51",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "FLEX1U 1RU HD Flex Enclosure",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "FLEX4U",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "FMP6",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ADC",
+        "Model Name *": "FMT",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ADVA",
+        "Model Name *": "FMT/1HU - Fiber Management Tray",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ADC",
+        "Model Name *": "FMT-DBS000000-A00P",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Geist SwitchAir",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "Generic Keyboard/Mouse",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Applied Inovations",
+        "Model Name *": "Generic Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Fujitsu",
+        "Model Name *": "HA15B-0001-B275",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Fujitsu",
+        "Model Name *": "HA15B-0001-B424",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Afco",
+        "Model Name *": "HAT Panel",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119CE1N",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119CE3H",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119CE6H",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119GC36",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119ME3N",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119ME3S",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119ME6N",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119MS1N",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC119MS3N",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219CC3N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219CE1N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219CE3N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219CE6N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219CR3N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219GC36",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219GC36P",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219ME3N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219ME3S",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219ME6N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219MS1N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC219MS3N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC319CE3N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC319CE6N",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC319ME3N",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HC319ME6N",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "HCM-1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "HCM-1D",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "HCM-1DR",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "HCM-1DV",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "HCM-1V",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "HCM-2D",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "HCM-2DR",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "HCM-2DV",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM12C",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM14",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM14C",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM177C",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM17C",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM22C",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM24",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM24C",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM277C",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM27C",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM34",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM34C",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM377C",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM37C",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM44",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM44C",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM477C",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "HM47C",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "HP Rotating Keyboard/Mouse Tray",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "HTK-19-SS-1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "HTK-19-SS-2U",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "ION-E PSU Frame",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Keyboard 1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Legrand",
+        "Model Name *": "LBP Series Horizontal Lacer Bar",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "OSIRIONE",
+        "Model Name *": "Module carrier 19 â€œ/ 3HE",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "OSIRIONE",
+        "Model Name *": "module carrier 19 â€œ/  4 Slot",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "OSIRIONE",
+        "Model Name *": "Module carrier 19 â€œ/ One-Piece",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "NCMHAEF2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Symantec",
+        "Model Name *": "NetBackup 5330-Shelf",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetShelter CX Fan",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Hubbell",
+        "Model Name *": "Next Frame",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "NM3",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "NMF2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Neat-Patch",
+        "Model Name *": "NP2K624",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Neat-Patch",
+        "Model Name *": "NP2K648",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NT0H32BE",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NT0H43CBE6",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NT0H57BBE6",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NT0H59AA",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NT0H59BAE5",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Viavi",
+        "Model Name *": "NTAP 19-inch 1U Rack Mount Panel (TCRM-K)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870ABE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870ADE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870AGE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870AHE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870AJE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870AKE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870ALE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870AME5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870ANE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870APE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "NTT870AQE5 (Nortel)",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Cisco Systems",
+        "Model Name *": "NXA-AIRFLOW-SLV-E",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Blonder Tongue",
+        "Model Name *": "OC-16",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Nortel Networks",
+        "Model Name *": "OMX FIBER MANAGER",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Leviton",
+        "Model Name *": "OPT-X 1000i enclosure 1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CommScope",
+        "Model Name *": "OVRHDRACKVCM6U",
+        "Class *": "Passive",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "PaloAlto Networks",
+        "Model Name *": "PAN-AIRDUCT",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "Panduit 22RU-Blanking Angled Plate",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "PEHF4",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "QMA-D3",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "HPE",
+        "Model Name *": "Rack Ballast Kit",
+        "Class *": "Passive",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "HPE",
+        "Model Name *": "Rack Stabilizer",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Kramer",
+        "Model Name *": "RK-3T - Data  Panel",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Tii Technologies",
+        "Model Name *": "RM1UBSS",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Software House",
+        "Model Name *": "RM DCM-2",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "ADRF",
+        "Model Name *": "RMK-SDR",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Blackbox",
+        "Model Name *": "RMT963",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "SA1-01001NB",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "SA1-01002L",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "SA1-01002XLNB",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "General DataComm",
+        "Model Name *": "SC 2000",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Dell",
+        "Model Name *": "SC460 Cable Management Tray",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Motorola",
+        "Model Name *": "SECTEL 9600",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "SentrySafe",
+        "Model Name *": "SF123CS",
+        "Class *": "Passive",
+        "Rack Units *": "11"
+    },
+    {
+        "Make *": "Aperture",
+        "Model Name *": "Shelf 19-1U",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Volicon",
+        "Model Name *": "Shelf Assembly",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 10 RU",
+        "Class *": "Passive",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 11 RU",
+        "Class *": "Passive",
+        "Rack Units *": "11"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 12 RU",
+        "Class *": "Passive",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 1 RU",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 2 RU",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 3 RU",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 4 RU",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 5 RU",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 6 RU",
+        "Class *": "Passive",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 7 RU",
+        "Class *": "Passive",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 8 RU",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Reserved",
+        "Model Name *": "Space 9 RU",
+        "Class *": "Passive",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Afco",
+        "Model Name *": "SP-ADJSHELF-SCA-1932",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "SRB19BLY",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Tripp Lite",
+        "Model Name *": "SRCABLEDUCT2UHD",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Tripp Lite",
+        "Model Name *": "SRDUCTN7009",
+        "Class *": "Passive",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Westel",
+        "Model Name *": "T1 FAC LPBK SHLF B9031MA14D",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "TABLE",
+        "Class *": "Passive",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "TD2",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "TD3",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "TD4",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "TD5",
+        "Class *": "Passive",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "TD8FLK",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Telescope Shelf 16 - 26",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Telescope Shelf 27 - 44",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "TLBP1S-L",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "TLBP1S-V",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "TLBP2S-V",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "TS1004331",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "TS1011601",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "TS1015171",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Truvision",
+        "Model Name *": "TVD-5601",
+        "Class *": "Passive",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "UD2 Utility Storage Drawer",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CPI",
+        "Model Name *": "Universal Horizontal Cable Manager 30339-719",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Chief",
+        "Model Name *": "UNS-1",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Systimax",
+        "Model Name *": "UP",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VRA2000",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VRA2001",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VRA2002 - 1RU",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VRA2002 - 2RU",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VRA2002 - 4RU",
+        "Class *": "Passive",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VRA2002 - 8RU",
+        "Class *": "Passive",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VRA2003",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VRA6017",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "VSA-1626",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Middle Atlantic",
+        "Model Name *": "VSA-2744",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "WMPF1",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "WMPF1E",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "WMPFS",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "WMPFSE",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "WMPH2E",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "WMPSE",
+        "Class *": "Passive",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Motorola",
+        "Model Name *": "XPR 4550",
+        "Class *": "Passive",
+        "Rack Units *": "2"
+    }
+]

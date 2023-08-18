@@ -93,7 +93,7 @@ export default function Location({ aisle, setAisle, show, setShow }) {
               <button onClick={AddAisle}>Add Aisle</button>
               <input type="submit" value="Submit" />
             </div>
-          </form>{" "}
+          </form>
         </div>
       )}
     </div>

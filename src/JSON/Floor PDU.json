@@ -1,0 +1,1334 @@
+[
+    {
+        "Make *": "Raycap",
+        "Model Name *": "120-3Y-M3-4-03-A-H",
+        "Class *": "Floor PDU",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "15x3 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Kemp & Lauritzen",
+        "Model Name *": "1x12 Kemp & Lauritzen",
+        "Class *": "Floor PDU",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1x12 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1X1 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1X2 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "1x8 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x10 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x12 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Panasonic",
+        "Model Name *": "2x12 Panel-Panasonic",
+        "Class *": "Floor PDU",
+        "Rack Units *": "18"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x13 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x15 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2X16 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x17 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x18 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "11"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x21 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x22 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x24 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "14"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2X27 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x36 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x42 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "24"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x4 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x6 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2x8 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "2X9 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "38SA040A0A00",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "38SA060A0A00",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "3x7 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "40CD30M4AECF",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "5x14 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "6x15 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "6x2 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "ASCO",
+        "Model Name *": "7000 Series",
+        "Class *": "Floor PDU",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "C&C Power",
+        "Model Name *": "90880 Series",
+        "Class *": "Floor PDU",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "93E 15-400 kVA",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "BDCBB",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Building Power ATS",
+        "Class *": "Floor PDU",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "ActivePower",
+        "Model Name *": "Cleansource UPS 600Z",
+        "Class *": "Floor PDU",
+        "Rack Units *": "55"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Comet MGE 40kVA to 150kVA",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "NHP",
+        "Model Name *": "Concept Plus 2x24 Panel",
+        "Class *": "Floor PDU",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "EATON EMS-PDU-150",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Rack RPP",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton RPP",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton RPP-A",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Powersmiths",
+        "Model Name *": "ES-150-30-480-208-4P",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "EXC20021L",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC4414SB15",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC4416SB77A02",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC4424SB12",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC4448GB715035",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC4448SB77A279",
+        "Class *": "Floor PDU",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC4448SB77A392",
+        "Class *": "Floor PDU",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC4448SB77S",
+        "Class *": "Floor PDU",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDC5424SBPA",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FDD4444SB24",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "FDF6413SP77",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA15C418FA0063",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA22C822B",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA22D417CS0938",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C150B",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C150P",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C15NM",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C412B",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C812B",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C817MA",
+        "Class *": "Floor PDU",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C817MS0279",
+        "Class *": "Floor PDU",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C817MS4392",
+        "Class *": "Floor PDU",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA30C832P",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPC 150KVA",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Infinidat",
+        "Model Name *": "G07ATBB31600N5XC",
+        "Class *": "Floor PDU",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "ASCO",
+        "Model Name *": "G07ATBB31600N5XC -- ASCO",
+        "Class *": "Floor PDU",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Generic Floor PDU",
+        "Class *": "Floor PDU",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panasonic",
+        "Model Name *": "Generic Panel-Panasonic",
+        "Class *": "Floor PDU",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "GVX625K625GS",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "GVXP250KD",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Square D",
+        "Model Name *": "HCR548612U",
+        "Class *": "Floor PDU",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "InfraStruXure PDU 80kW",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "ASCO",
+        "Model Name *": "J7ATSA3260N5XC",
+        "Class *": "Floor PDU",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "Hensel",
+        "Model Name *": "KV 4548",
+        "Class *": "Floor PDU",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Liebert STS2",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Epsilon STE200",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Epsilon STE400",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Epsilon STE600",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Upsilon STS100",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Upsilon STS160",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Upsilon STS250",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Upsilon STS30",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Upsilon STS400",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Upsilon STS60",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Upsilon STS630",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "MODUAL COMPACT RPP 225A 84P PNB",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "MODUAL COMPACT RPP 400A 84P PNB",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "MODUAL COMPACT RPP 400A 84P SQD PNB",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Eltek Valere",
+        "Model Name *": "NB021",
+        "Class *": "Floor PDU",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 802 PDSC 58214000030",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "NetSure 802 PDSC 58214000030 (Emerson)",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 802 PDSC 58214000031",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "NetSure 802 PDSC 58214000031 (Emerson)",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 802 PDSC 58214000032",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "NetSure 802 PDSC 58214000032 (Emerson)",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Square D",
+        "Model Name *": "NQ84L4C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Anord Mardix",
+        "Model Name *": "NQM484L4CGS",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Square D",
+        "Model Name *": "NQOD442L225",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "OTPC 2000 Amp",
+        "Class *": "Floor PDU",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "OTPC 800 Amp",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD150G6F",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD40F6FK1-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD40G6FK1-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD40H5HK1-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD40L6FK1-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD60F6FK1",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD60G6FK1",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD60H5HK1",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD60L6FK1",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD80F6FK1-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD80G6FK1-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD80H5HK1-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PD80L6FK1-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "PDI Modular Compact RPP",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "United Power",
+        "Model Name *": "PDM2-F3-100-K13-426",
+        "Class *": "Floor PDU",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "United Power",
+        "Model Name *": "PDM2-F3-150-K13-426",
+        "Class *": "Floor PDU",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "United Power",
+        "Model Name *": "PDM5-F3-225-K13-426",
+        "Class *": "Floor PDU",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPB150G6F",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM100F6F-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM100G6F-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM138H-5U",
+        "Class *": "Floor PDU",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM138H-R",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM144F",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM150G6F",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM277H",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM288G6H",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDPM72F-5U",
+        "Class *": "Floor PDU",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRDPF10U-R",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRDPF10U-R (RDP 208v)",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRDPH10U-R",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRPPH1000",
+        "Class *": "Floor PDU",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRPPH1000-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRPPH2000-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRPPNX10",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRPPNX10-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PDRPPNX14-M",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "PDU-A",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PDU Cabinet",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "PDU-Generic",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Cyberex",
+        "Model Name *": "PDX722-140AACAA2",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM100",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM125",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM150",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM200",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM225",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM30",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM300",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM50",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMM75",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "MGE UPS Systems",
+        "Model Name *": "PMN084-42-150",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMR1S",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PMR24S",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "Powerpak 1000",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PowerPak2 Power Distribution Unit",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Weber",
+        "Model Name *": "Power Panel 1x12-Weber",
+        "Class *": "Floor PDU",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Hensel",
+        "Model Name *": "Power Panel 1x48",
+        "Class *": "Floor PDU",
+        "Rack Units *": "14"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Power Side Car PDU",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP12-4-1000",
+        "Class *": "Floor PDU",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP12-4-150-G-641",
+        "Class *": "Floor PDU",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP13-4-300-G-641",
+        "Class *": "Floor PDU",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP-13-WS-075-G-641-R",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP13-WS-300-G-641",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP-13-WS-300-G-641-L",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP-13-WS-300-G-641-R",
+        "Class *": "Floor PDU",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP13-WSC-225-G-641",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "PP2-13-WSC-400-G-641",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA050C-2 PANEL",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA050C-TOP EXIT",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA075C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA100C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA125C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA150C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA200C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA225C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA225D",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA300C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA300C325",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PPA300D",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Precision Power 15-30 kVA, 1PB",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Precision Power 50-125 kVA, 2PB",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Precision Power 50-225 kVA, 3PB",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Precision Power 50-225 kVA, 4PB",
+        "Class *": "Floor PDU",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "PRL1A-225",
+        "Class *": "Floor PDU",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "PRL1A-400",
+        "Class *": "Floor PDU",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "QED-2",
+        "Class *": "Floor PDU",
+        "Rack Units *": "53"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "RDC441GB14",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "RDC442GP15",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "RDC442SB15",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "RDC642SB15",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "RDC644SB15",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "RDC644SP15",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Remote Power Panel (RPP) (0M-5104)",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "RPP-01-1-441-D2",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "PDI",
+        "Model Name *": "RPP-02-1-441-D4",
+        "Class *": "Floor PDU",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "United Power",
+        "Model Name *": "RPP4-L4-225-226",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "RXCSB05S8336",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "RXCSB23",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "STPA2CLA12N",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "STPA2CRA12",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "STPA6CLJ1N",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Layer Zero",
+        "Model Name *": "STS",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "STS 100-250A",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "STS 400-600A",
+        "Class *": "Floor PDU",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Layer Zero",
+        "Model Name *": "STS/PDU",
+        "Class *": "Floor PDU",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYB400K1000GXR-2C",
+        "Class *": "Floor PDU",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "SymmetraPX 40kVA Bypass PDU Cabinet",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY80K80",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SYCF160KH",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SYCF40KF",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SYCF8BF",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SYCFXR9",
+        "Class *": "Floor PDU",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "UP9933B-A754DU-4",
+        "Class *": "Floor PDU",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "UTS10BI",
+        "Class *": "Floor PDU",
+        "Rack Units *": "14"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "UTS6",
+        "Class *": "Floor PDU",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "UTS6BI",
+        "Class *": "Floor PDU",
+        "Rack Units *": "12"
+    }
+]

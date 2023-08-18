@@ -1,0 +1,542 @@
+[
+    {
+        "Make *": "Champion",
+        "Model Name *": "100110",
+        "Class *": "Power Source",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "100GGHD",
+        "Class *": "Power Source",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "Onan",
+        "Model Name *": "100GGHH-6124J",
+        "Class *": "Power Source",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "Onan",
+        "Model Name *": "125 DGEA-47",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "1500SC2",
+        "Class *": "Power Source",
+        "Rack Units *": "55"
+    },
+    {
+        "Make *": "Briggs and Straton",
+        "Model Name *": "1932",
+        "Class *": "Power Source",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "200DSHAC-5873423",
+        "Class *": "Power Source",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "Onan",
+        "Model Name *": "20GGDB",
+        "Class *": "Power Source",
+        "Rack Units *": "29"
+    },
+    {
+        "Make *": "Onan",
+        "Model Name *": "250-DFAC",
+        "Class *": "Power Source",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "250DFAC",
+        "Class *": "Power Source",
+        "Rack Units *": "57"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "250DQAD-5756434",
+        "Class *": "Power Source",
+        "Rack Units *": "57"
+    },
+    {
+        "Make *": "Onan",
+        "Model Name *": "300 DFCB",
+        "Class *": "Power Source",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Onan",
+        "Model Name *": "30.0EK-15R131",
+        "Class *": "Power Source",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "Onan",
+        "Model Name *": "30EK",
+        "Class *": "Power Source",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Katolight",
+        "Model Name *": "350PXC6DT3",
+        "Class *": "Power Source",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Spectrum Detroit Diesel",
+        "Model Name *": "400DS60",
+        "Class *": "Power Source",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Kohler",
+        "Model Name *": "450REOZDD",
+        "Class *": "Power Source",
+        "Rack Units *": "56"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "500DFEK-572112",
+        "Class *": "Power Source",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "500DFEK-5852758",
+        "Class *": "Power Source",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Kohler",
+        "Model Name *": "50REOZK",
+        "Class *": "Power Source",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "60DGCB",
+        "Class *": "Power Source",
+        "Rack Units *": "59"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "80DGDA",
+        "Class *": "Power Source",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "93A 01964-S",
+        "Class *": "Power Source",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "AKSA",
+        "Model Name *": "APD-AT82",
+        "Class *": "Power Source",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "C100 N6",
+        "Class *": "Power Source",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "C150D2RE",
+        "Class *": "Power Source",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "C18-700",
+        "Class *": "Power Source",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "C27",
+        "Class *": "Power Source",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "C50 D6",
+        "Class *": "Power Source",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "Winco",
+        "Model Name *": "CSAPSS8000/N",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "D100-6S",
+        "Class *": "Power Source",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D100P4",
+        "Class *": "Power Source",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D125P1",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D125P2",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "Katolight",
+        "Model Name *": "D150FGJ4T3",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D150P1",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D150P4",
+        "Class *": "Power Source",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D200P4",
+        "Class *": "Power Source",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "D250 GC",
+        "Class *": "Power Source",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D30P3S",
+        "Class *": "Power Source",
+        "Rack Units *": "50"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D50P1",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D50P2S",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D50P3S",
+        "Class *": "Power Source",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D60P3",
+        "Class *": "Power Source",
+        "Rack Units *": "59"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "D90P1",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "MQ Power Group",
+        "Model Name *": "DCA125-125SSIU",
+        "Class *": "Power Source",
+        "Rack Units *": "15"
+    },
+    {
+        "Make *": "MultiQuip",
+        "Model Name *": "DCA25SSIU2",
+        "Class *": "Power Source",
+        "Rack Units *": "23"
+    },
+    {
+        "Make *": "MultiQuip",
+        "Model Name *": "DCA25USI",
+        "Class *": "Power Source",
+        "Rack Units *": "29"
+    },
+    {
+        "Make *": "MultiQuip",
+        "Model Name *": "DCA-400SSI",
+        "Class *": "Power Source",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "MultiQuip",
+        "Model Name *": "DCA-45USI",
+        "Class *": "Power Source",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "MQ Power Group",
+        "Model Name *": "DCA-70USJ",
+        "Class *": "Power Source",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "DFAC-3366968/H",
+        "Class *": "Power Source",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "DFCB-4483738",
+        "Class *": "Power Source",
+        "Rack Units *": "37"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "DFCE-3381339",
+        "Class *": "Power Source",
+        "Rack Units *": "51"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "DFEK-1328867",
+        "Class *": "Power Source",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "DFEK-1716708",
+        "Class *": "Power Source",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "DFEK-1788358",
+        "Class *": "Power Source",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Cummins",
+        "Model Name *": "DFEK-5991207",
+        "Class *": "Power Source",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Onan",
+        "Model Name *": "DGCB-5670286",
+        "Class *": "Power Source",
+        "Rack Units *": "51"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "G100F1",
+        "Class *": "Power Source",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "G100F3S",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "G150G1",
+        "Class *": "Power Source",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "G25LTA2",
+        "Class *": "Power Source",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "G45F3S",
+        "Class *": "Power Source",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "G75F1S",
+        "Class *": "Power Source",
+        "Rack Units *": "33"
+    },
+    {
+        "Make *": "Olympian",
+        "Model Name *": "G75F3S",
+        "Class *": "Power Source",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "SDMO",
+        "Model Name *": "GS500UC",
+        "Class *": "Power Source",
+        "Rack Units *": "55"
+    },
+    {
+        "Make *": "HiPower/Himonsia",
+        "Model Name *": "HRJW-205",
+        "Class *": "Power Source",
+        "Rack Units *": "50"
+    },
+    {
+        "Make *": "HiPower/Himonsia",
+        "Model Name *": "HYW-25 M6 SA",
+        "Class *": "Power Source",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "Baldor",
+        "Model Name *": "IDLC20-3M",
+        "Class *": "Power Source",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Baldor",
+        "Model Name *": "IDLC300-3J",
+        "Class *": "Power Source",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Baldor",
+        "Model Name *": "IDLC400-D3",
+        "Class *": "Power Source",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Baldor",
+        "Model Name *": "IDLC80-3J",
+        "Class *": "Power Source",
+        "Rack Units *": "29"
+    },
+    {
+        "Make *": "SDMO",
+        "Model Name *": "J40U",
+        "Class *": "Power Source",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "SDMO",
+        "Model Name *": "J40UC2",
+        "Class *": "Power Source",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "MultiQuip",
+        "Model Name *": "KD115V",
+        "Class *": "Power Source",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "LC5",
+        "Class *": "Power Source",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "LC6",
+        "Class *": "Power Source",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "LC7",
+        "Class *": "Power Source",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "Magnum",
+        "Model Name *": "MMG230",
+        "Class *": "Power Source",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Magnum",
+        "Model Name *": "MMG55FH",
+        "Class *": "Power Source",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Coleman",
+        "Model Name *": "PM0622502",
+        "Class *": "Power Source",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "Winco",
+        "Model Name *": "PSS20000-3/E",
+        "Class *": "Power Source",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "Generac",
+        "Model Name *": "RD050",
+        "Class *": "Power Source",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "SR4",
+        "Class *": "Power Source",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "SR4B",
+        "Class *": "Power Source",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "SR4B-GD",
+        "Class *": "Power Source",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "CAT",
+        "Model Name *": "SR5",
+        "Class *": "Power Source",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "Taylor Power Systems",
+        "Model Name *": "TD150",
+        "Class *": "Power Source",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Winco",
+        "Model Name *": "YLT6010DE",
+        "Class *": "Power Source",
+        "Rack Units *": "22"
+    }
+]

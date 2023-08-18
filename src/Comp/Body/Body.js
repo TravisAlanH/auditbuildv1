@@ -10,14 +10,15 @@ export default function Body() {
   const [show, setShow] = React.useState([1, 0, 0, 0, 0, 0, 0, 0]);
   const [location, setLocation] = React.useState([]);
   const [aisle, setAisle] = React.useState([]);
+  const [cabinet, setCabinet] = React.useState([]);
 
   return (
     <div>
       <Location location={location} setLocation={setLocation} show={show} setShow={setShow} />
 
       <AisleRow aisle={aisle} setAisle={setAisle} show={show} setShow={setShow} />
+      <Cabinets show={show} setShow={setShow} cabinet={cabinet} setCabinet={setCabinet} />
       <RackPDU show={show} setShow={setShow} />
-      <Cabinets show={show} setShow={setShow} />
     </div>
   );
 

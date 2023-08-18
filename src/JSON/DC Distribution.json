@@ -1,0 +1,140 @@
+[
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150050122",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150050154",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "801DB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Altronix",
+        "Model Name *": "AL600ULACM",
+        "Class *": "DC Distribution",
+        "Rack Units *": "11"
+    },
+    {
+        "Make *": "Altronix",
+        "Model Name *": "ALTV2416350",
+        "Class *": "DC Distribution",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Altronix",
+        "Model Name *": "ALTV2416350CB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Altronix",
+        "Model Name *": "ALTV2416600CB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Altronix",
+        "Model Name *": "ALTV248",
+        "Class *": "DC Distribution",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Altronix",
+        "Model Name *": "ALTV248175",
+        "Class *": "DC Distribution",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Altronix",
+        "Model Name *": "ALTV248175CB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Altronix",
+        "Model Name *": "ALTV248CB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "BDFB 8x800",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "ABB",
+        "Model Name *": "BDFB-BDCBB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Tyco",
+        "Model Name *": "H569445 BDCBB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "H569445 G7 BDCBB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8100DB SPEC 582140600ZZ003",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8100DB SPEC 582140600ZZ003W",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Amphenol Network Solutions",
+        "Model Name *": "nrgBDFB-XLW",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "PowerBay+ BDFB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "PowerBay Full BDFB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "PowerBay Half BDFB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "PowerBay+ Half BDFB",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "SMART BDFB 8x800A",
+        "Class *": "DC Distribution",
+        "Rack Units *": "48"
+    }
+]

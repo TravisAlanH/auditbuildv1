@@ -1,0 +1,2120 @@
+[
+    {
+        "Make *": "Comm/Net Systems Inc",
+        "Model Name *": "016-1734-10",
+        "Class *": "DC Power System",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Comm/Net Systems Inc",
+        "Model Name *": "016-1735-10",
+        "Class *": "DC Power System",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Comm/Net Systems Inc",
+        "Model Name *": "016-1736-10",
+        "Class *": "DC Power System",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Comm/Net Systems Inc",
+        "Model Name *": "016-1737-10",
+        "Class *": "DC Power System",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "031-322-20",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "031-323-20",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Comm/Net Systems Inc",
+        "Model Name *": "057-101-20-201Te40",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Unipower",
+        "Model Name *": "10.7050.06",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Unipower",
+        "Model Name *": "10.7050.27",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "108873415",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "108982752",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "108993275",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "108993283",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "108994380",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110.7010.00",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110.7020.00",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110.7021.00A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110-7050-05",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110-7050-06",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110-7051-05",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110-7051-06",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110.7051.06",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "110-7052-02",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150043878",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150043882",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150043884",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150047549",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150047550",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150050146",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150050147",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150050148",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150050149",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150050150",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150050151",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150051719",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150051795",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150051797",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "1600090925A (GE)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225621A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225622A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225624A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225625A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225626A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225627A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225628A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225629A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225630A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225631A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225632A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225633A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225634A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225635A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225636A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225637A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225638A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600225639A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600260018A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600260019A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600260020A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600266787A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600266788A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600266789A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600266790A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600266791A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600266792A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "1600266793A",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "\"170.0010.20 (16\"\"D Trays)\"",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "\"170.0010.20 (20\"\"D Trays)\"",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "\"170.0010.20 (21\"\"D Trays)\"",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "\"170.0010.20 (30\"\"D Trays)\"",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "\"170.0023.20 (22\"\"D Trays)\"",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "\"170.0023.20 (23\"\"D Trays)\"",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "\"170.0023.20 (30\"\"D Trays)\"",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "180994406",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR125-33-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR125-33-4W-6H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR45-29-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR45-29-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR45-31-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR45-31-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR45-33-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR45-33-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-29-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-29-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-29-4W-6H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-29-4W-6H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-31-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-31-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-31-4W-6H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-31-4W-6H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-33-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-33-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-33-4W-6H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR75-33-4W-6H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-29-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-29-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-29-4W-6H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-29-4W-6H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-31-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-31-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-31-4W-6H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-31-4W-6H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-33-3W-8H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-33-3W-8H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-33-4W-6H-48V-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "24AVR95-33-4W-6H-48V-Non-Interlock",
+        "Class *": "DC Power System",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Farwest Fabricators",
+        "Model Name *": "\"45U Legacy - 84\"\" x 24.5\"\" x 16\"\"\"",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "4x6Z4-48LBB 250W",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&C Power",
+        "Model Name *": "91256 Battery Rack",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Power System",
+        "Model Name *": "9648701301 BDFB (Power System)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Telco Systems",
+        "Model Name *": "AL7238UG ENCLOSURE",
+        "Class *": "DC Power System",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AL7893MB Enclosure",
+        "Class *": "DC Power System",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-07P-6W-4H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-07P-8W-3H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-09P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-09P-6W-4H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-09P-8W-3H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-11P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-11P-6W-4H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-15P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-15P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-15P-6W-4H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-17P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-17P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-17P-6W-4H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-19P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-19P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-19P-6W-4H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-21P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-21P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-21P-6W-4H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-23P-2W-6H-24V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-23P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-23P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-25P-2W-6H-24V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-25P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-25P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-27P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-27P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-29P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-29P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-35P-2W-6H-24V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-35P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-35P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-39P-2W-6H-24V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-39P-3W-8H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-39P-4W-6H-48V",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR125-33 3 W x 8 H Stand",
+        "Class *": "DC Power System",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVRTR4X3 Z4 TBP-24v",
+        "Class *": "DC Power System",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVRTR4X3 Z4 TBP-48v",
+        "Class *": "DC Power System",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVRTR4X4 Z4-24v",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVRTR4X4 Z4-48v",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVRTR4X5 Z4-24v",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVRTR4X5 Z4-48v",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVRTR4X6 Z4-24v",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVRTR4X6 Z4-48v",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "AT&T",
+        "Model Name *": "BDFB",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109133006",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109134227",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109134235",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109134333",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109136660",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109145777",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109154803 H569434 G-1",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109154811 H569434 G-1",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109154828 H569434 G-1",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109154836 H569434 G-1",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109167607",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109167615",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Cool Cell",
+        "Model Name *": "CCPSD-803468 (6 pull-out trays)",
+        "Class *": "DC Power System",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "C&D 3x8 Stand",
+        "Class *": "DC Power System",
+        "Rack Units *": "50"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "CXPS-W 600A â€“ 2000A Power System",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "Deka Unigy II AVR125-33 4x6 rack",
+        "Class *": "DC Power System",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "Deka Unigy II AVR95-33 3x8 rack",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "East Penn 3x8 Stand",
+        "Class *": "DC Power System",
+        "Rack Units *": "50"
+    },
+    {
+        "Make *": "ABB",
+        "Model Name *": "Galaxy Power System 4848",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "Infinity M",
+        "Class *": "DC Power System",
+        "Rack Units *": "18"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "IP2C",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "IP3",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "IP4F12",
+        "Class *": "DC Power System",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "IP5",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "IP5F12",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "IP6F4D",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "IP7F4D",
+        "Class *": "DC Power System",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "AT&T",
+        "Model Name *": "J85568B-1L1-2A-WB",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "Lineage Power GPS 4848/100 H569-434",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000003",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000005",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000012",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000013",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000014",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000015",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000016",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000017",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000018",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000019",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 58214000022",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 701 AO2-T1",
+        "Class *": "DC Power System",
+        "Rack Units *": "53"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 701 AO2-T1 (Vertiv)",
+        "Class *": "DC Power System",
+        "Rack Units *": "53"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 701NVBB 543160",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 701NVBB 543163",
+        "Class *": "DC Power System",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NETSURE 7100 SERIES",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 8000",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "NetSure 801DB NVGB",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 802 58214000001",
+        "Class *": "DC Power System",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000001 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 802 58214000002",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000002 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000003 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000005 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 802 58214000011",
+        "Class *": "DC Power System",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000011 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000012 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000013 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000014 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000015 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802  58214000016 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802  58214000017 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802  58214000018 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000019 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000022 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NETSURE 802 SERIES 58214000003 400A Ferro Retrofit Power Bay",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NETSURE 802 SERIES 58214000005 200A Ferro Retrofit Power Bay",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NETSURE 802 SERIES 58214000012 PDB",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NETSURE 802 SERIES 58214000013 400A Ferro Retrofit Power Bay",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NETSURE 802 SERIES 58214000014 Bulk Feed Power Bay",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NETSURE 802 SERIES 58214000015 200A Ferro Retrofit Power Bay",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NETSURE 802 SERIES 58214000016 Distribution Bay",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8100DB",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000101",
+        "Class *": "DC Power System",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000102",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000103",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000104",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000105",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000111",
+        "Class *": "DC Power System",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000112",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000113",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000114",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200  582140000115",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000116",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000117",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000118",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 582140000122",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 8200 PDSC",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01262",
+        "Class *": "DC Power System",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01263",
+        "Class *": "DC Power System",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01264",
+        "Class *": "DC Power System",
+        "Rack Units *": "18"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01265",
+        "Class *": "DC Power System",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01266",
+        "Class *": "DC Power System",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01615",
+        "Class *": "DC Power System",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01616",
+        "Class *": "DC Power System",
+        "Rack Units *": "18"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01617",
+        "Class *": "DC Power System",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01618",
+        "Class *": "DC Power System",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01623",
+        "Class *": "DC Power System",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01670",
+        "Class *": "DC Power System",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RD01678",
+        "Class *": "DC Power System",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDB0700",
+        "Class *": "DC Power System",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDB0701",
+        "Class *": "DC Power System",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDB0702",
+        "Class *": "DC Power System",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDB0703",
+        "Class *": "DC Power System",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDB0800",
+        "Class *": "DC Power System",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDB0801",
+        "Class *": "DC Power System",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDB0802",
+        "Class *": "DC Power System",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDB0803",
+        "Class *": "DC Power System",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDC0900",
+        "Class *": "DC Power System",
+        "Rack Units *": "11"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDC0901",
+        "Class *": "DC Power System",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDC0902",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RDC0903",
+        "Class *": "DC Power System",
+        "Rack Units *": "24"
+    },
+    {
+        "Make *": "Electronic Systems Support",
+        "Model Name *": "TR8X6Z4-SPEC",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Plant Panel",
+        "Class *": "DC Power System",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109154761 H569434 G-1",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109154778 H569434 G-1",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109154786 H569434 G-1",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109154794 H569434 G-1",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 701NVBB 543160 Plant",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 802 58214000004",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 802 58214000004 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Plant",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Comcast",
+        "Model Name *": "Virtual DC Plant",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "108979238",
+        "Class *": "DC Power System",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "108990405",
+        "Class *": "DC Power System",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "109158878",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "150034309",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ABB",
+        "Model Name *": "595A3",
+        "Class *": "DC Power System",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "ABB",
+        "Model Name *": "595B3",
+        "Class *": "DC Power System",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "ABB",
+        "Model Name *": "595LTA",
+        "Class *": "DC Power System",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "595LTA (Lineage Power)",
+        "Class *": "DC Power System",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "ABB",
+        "Model Name *": "595LTB",
+        "Class *": "DC Power System",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "595LTB (Lineage Power)",
+        "Class *": "DC Power System",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Tyco",
+        "Model Name *": "596A",
+        "Class *": "DC Power System",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Arris",
+        "Model Name *": "AM-PSAC-90-R",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109149340 QS865ATEZ Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109158151 QS864ATEZ Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109158168 QS861ATEZ Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109158176 QS860ATEZ Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109158184 QS862ATEZ Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CC109161758 QS863ATEZ Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Technicolor",
+        "Model Name *": "CC109163473",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Valere",
+        "Model Name *": "CL1D-AUN-VV",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "Cordex HP 1.2kW 1RU Integrated Shelf System",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "CP2000AC54TE",
+        "Class *": "DC Power System",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "CPS6000",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "CXPS-E3 400A Power System 3.0kW",
+        "Class *": "DC Power System",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "CXPS-E3 400A Power System 4.0kW",
+        "Class *": "DC Power System",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "CXPS-E3 600A Power System",
+        "Class *": "DC Power System",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "DCP03 300A",
+        "Class *": "DC Power System",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "AMV",
+        "Model Name *": "DD756",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Eltek Valere",
+        "Model Name *": "FP2 24-125V",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Eltek Valere",
+        "Model Name *": "FPSJ60I-ANL-VC",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "Galaxy 596D SMR Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Huawei",
+        "Model Name *": "GIE4805S",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "J85480S1L20",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "J85480S1-L23",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lorain Power Systems",
+        "Model Name *": "LPS200D50",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Mean Well",
+        "Model Name *": "LRS-150-48",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "TDI Power",
+        "Model Name *": "MES050B-60AAB00",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "CE+T Power",
+        "Model Name *": "MIPS 48/120",
+        "Class *": "DC Power System",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "NE050AC48ATEZ",
+        "Class *": "DC Power System",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "NE075AC48ATEZ Infinity Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Netsure 201",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 501 A41-S1",
+        "Class *": "DC Power System",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Netsure 502",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 701 A41-S3",
+        "Class *": "DC Power System",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 701 A41-S5",
+        "Class *": "DC Power System",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 802 Rectifier 486532602",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "NetSure 802 Rectifier 486532602 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "NetSure 802 Rectifier 486532603",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "NetSure 802 Rectifier 486532603 (Emerson)",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "IDEC",
+        "Model Name *": "PS5R-E24",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-1000",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-12000E",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-12000LE",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-2000e",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-2000e3",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-3000E3A",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-3000E3B",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-3200",
+        "Class *": "DC Power System",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-3200e",
+        "Class *": "DC Power System",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-3500e",
+        "Class *": "DC Power System",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-3500e3",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "R48-500",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Quintech",
+        "Model Name *": "RPS2460QAB000",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Quintech",
+        "Model Name *": "RPS-Q 16 port",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "SAG582136700",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Evertz",
+        "Model Name *": "Scorpion-18-PS6",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GE",
+        "Model Name *": "Slimline Power System (J2007003014)",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Scientific Atlanta",
+        "Model Name *": "SYS-AC-Q3619/F",
+        "Class *": "DC Power System",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Netscout",
+        "Model Name *": "TBSR1U4A",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Westell",
+        "Model Name *": "UDIT-PSCH-248VMOD",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Eltek Valere",
+        "Model Name *": "V0500A Power Supply Rectifier",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Eltek Valere",
+        "Model Name *": "v1500b-vc",
+        "Class *": "DC Power System",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Unipower",
+        "Model Name *": "XS198",
+        "Class *": "DC Power System",
+        "Rack Units *": "1"
+    }
+]

@@ -1,0 +1,1190 @@
+[
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9319",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9340",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9341",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Profitap",
+        "Model Name *": "CBR-10G2-2TB",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Burk Technologies",
+        "Model Name *": "Climate Guard",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ITWatchdogs",
+        "Model Name *": "Climate Monitor WxGoos-1",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ITWatchdogs",
+        "Model Name *": "Climate Monitor WxGoos-2",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-16D",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-2D",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "PacketPower",
+        "Model Name *": "E312",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-5D",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "EMX2-111",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "EMX2-888",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "EPA126",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "FC-3-2",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Geist Watchdog 15",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vectra",
+        "Model Name *": "IDS S2",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "McAfee",
+        "Model Name *": "IntruShield 3000",
+        "Class *": "Probe",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Dell",
+        "Model Name *": "IPI Appliance",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "IRM-S01W",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "IRM-S02TH",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "RLE Technologies",
+        "Model Name *": "LD2100 Seahawk",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Liqui-tect LP3000",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBPD0150",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBPD0171",
+        "Class *": "Probe",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0200",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0201",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0320",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0450",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0451",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0550",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0551",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "NetBotz",
+        "Model Name *": "NBRK0570",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 150",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 200",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 250",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 450",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 570",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz Rack Monitor 250",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Egnite",
+        "Model Name *": "Querx PT",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "RDU-A G2",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 12E",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 24E",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 26W",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 32E",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "RSE2X16",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "RSE-B",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "RSMINI163",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "RSO",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "AKCP",
+        "Model Name *": "sensorProbe8",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "AKCP",
+        "Model Name *": "sensorProbe8-X60",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Omnitronix",
+        "Model Name *": "SNMP-Link SL10",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0100",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0102",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0103",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0800",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Visual Networks",
+        "Model Name *": "T1/FT1 DSU/ASE",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "Watchdog 15-P",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "RLE Technologies",
+        "Model Name *": "WiNG-MGR",
+        "Class *": "Probe",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "R-Werks",
+        "Model Name *": "XB3 Gateway-Probe",
+        "Class *": "Probe",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Port Type *",
+        "Rack Units *": "Data Rate *"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9319",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9340",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9341",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Profitap",
+        "Model Name *": "CBR-10G2-2TB",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Burk Technologies",
+        "Model Name *": "Climate Guard",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-16D",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-16D",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-2D",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-5D",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-5D",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "EMX2-111",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "EMX2-111",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "EMX2-888",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "EMX2-888",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "EPA126",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Geist Watchdog 15",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Vectra",
+        "Model Name *": "IDS S2",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Vectra",
+        "Model Name *": "IDS S2",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "McAfee",
+        "Model Name *": "IntruShield 3000",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "McAfee",
+        "Model Name *": "IntruShield 3000",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Dell",
+        "Model Name *": "IPI Appliance",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "IRM-S01W",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "IRM-S02TH",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "RLE Technologies",
+        "Model Name *": "LD2100 Seahawk",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Liqui-tect LP3000",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Liqui-tect LP3000",
+        "Class *": "Physical",
+        "Rack Units *": "n/a"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBPD0171",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0200",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0201",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0201",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0320",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0450",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0451",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0550",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0551",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "NetBotz",
+        "Model Name *": "NBRK0570",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 200",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 200",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 250",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 450",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 570",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz Rack Monitor 250",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz Rack Monitor 250",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Egnite",
+        "Model Name *": "Querx PT",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "RDU-A G2",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "RDU-A G2",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 12E",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 24E",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 26W",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 32E",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "RSMINI163",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "AKCP",
+        "Model Name *": "sensorProbe8",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "AKCP",
+        "Model Name *": "sensorProbe8-X60",
+        "Class *": "Physical",
+        "Rack Units *": "100 Base-T"
+    },
+    {
+        "Make *": "AKCP",
+        "Model Name *": "sensorProbe8-X60",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Omnitronix",
+        "Model Name *": "SNMP-Link SL10",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0100",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0100",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0102",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0102",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0103",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0103",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0800",
+        "Class *": "Physical",
+        "Rack Units *": "10/100/1G Base-T"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0800",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Visual Networks",
+        "Model Name *": "T1/FT1 DSU/ASE",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Visual Networks",
+        "Model Name *": "T1/FT1 DSU/ASE",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "Watchdog 15-P",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "RLE Technologies",
+        "Model Name *": "WiNG-MGR",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "RLE Technologies",
+        "Model Name *": "WiNG-MGR",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Index",
+        "Rack Units *": "Volts *"
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Index",
+        "Rack Units *": "Nameplate Watts *"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9319",
+        "Class *": "1",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9340",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP9341",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "Profitap",
+        "Model Name *": "CBR-10G2-2TB",
+        "Class *": "1",
+        "Rack Units *": "24"
+    },
+    {
+        "Make *": "Profitap",
+        "Model Name *": "CBR-10G2-2TB",
+        "Class *": "2",
+        "Rack Units *": "24"
+    },
+    {
+        "Make *": "Burk Technologies",
+        "Model Name *": "Climate Guard",
+        "Class *": "1",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "ITWatchdogs",
+        "Model Name *": "Climate Monitor WxGoos-1",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "ITWatchdogs",
+        "Model Name *": "Climate Monitor WxGoos-2",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-16D",
+        "Class *": "1",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-2D",
+        "Class *": "1",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-2D",
+        "Class *": "2",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "PacketPower",
+        "Model Name *": "E312",
+        "Class *": "1",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-5D",
+        "Class *": "1",
+        "Rack Units *": "15"
+    },
+    {
+        "Make *": "Network Technologies Incorporated",
+        "Model Name *": "E-5D",
+        "Class *": "2",
+        "Rack Units *": "15"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "EMX2-111",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "EMX2-888",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "EPA126",
+        "Class *": "1",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "Panduit",
+        "Model Name *": "EPA126",
+        "Class *": "2",
+        "Rack Units *": "40"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Geist Watchdog 15",
+        "Class *": "1",
+        "Rack Units *": "240"
+    },
+    {
+        "Make *": "Vectra",
+        "Model Name *": "IDS S2",
+        "Class *": "1",
+        "Rack Units *": "24"
+    },
+    {
+        "Make *": "McAfee",
+        "Model Name *": "IntruShield 3000",
+        "Class *": "1",
+        "Rack Units *": "350"
+    },
+    {
+        "Make *": "McAfee",
+        "Model Name *": "IntruShield 3000",
+        "Class *": "2",
+        "Rack Units *": "350"
+    },
+    {
+        "Make *": "Dell",
+        "Model Name *": "IPI Appliance",
+        "Class *": "1",
+        "Rack Units *": "768"
+    },
+    {
+        "Make *": "Dell",
+        "Model Name *": "IPI Appliance",
+        "Class *": "2",
+        "Rack Units *": "768"
+    },
+    {
+        "Make *": "RLE Technologies",
+        "Model Name *": "LD2100 Seahawk",
+        "Class *": "1",
+        "Rack Units *": "24"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Liqui-tect LP3000",
+        "Class *": "1",
+        "Rack Units *": "100"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0200",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0201",
+        "Class *": "1",
+        "Rack Units *": "51"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0320",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0450",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0451",
+        "Class *": "1",
+        "Rack Units *": "15"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0550",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NBRK0551",
+        "Class *": "1",
+        "Rack Units *": "15"
+    },
+    {
+        "Make *": "NetBotz",
+        "Model Name *": "NBRK0570",
+        "Class *": "1",
+        "Rack Units *": "51"
+    },
+    {
+        "Make *": "NetBotz",
+        "Model Name *": "NBRK0570",
+        "Class *": "2",
+        "Rack Units *": "51"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 150",
+        "Class *": "1",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 200",
+        "Class *": "1",
+        "Rack Units *": "300"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 250",
+        "Class *": "1",
+        "Rack Units *": "2400"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 450",
+        "Class *": "1",
+        "Rack Units *": "100"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz 570",
+        "Class *": "1",
+        "Rack Units *": "200"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetBotz Rack Monitor 250",
+        "Class *": "1",
+        "Rack Units *": "240"
+    },
+    {
+        "Make *": "Egnite",
+        "Model Name *": "Querx PT",
+        "Class *": "1",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "RDU-A G2",
+        "Class *": "1",
+        "Rack Units *": "60"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "RDU-A G2",
+        "Class *": "2",
+        "Rack Units *": "60"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 12E",
+        "Class *": "1",
+        "Rack Units *": "80"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 24E",
+        "Class *": "1",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 26W",
+        "Class *": "1",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Avtech",
+        "Model Name *": "Room Alert 32E",
+        "Class *": "1",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "RSMINI163",
+        "Class *": "1",
+        "Rack Units *": "25"
+    },
+    {
+        "Make *": "AKCP",
+        "Model Name *": "sensorProbe8",
+        "Class *": "1",
+        "Rack Units *": "50"
+    },
+    {
+        "Make *": "AKCP",
+        "Model Name *": "sensorProbe8-X60",
+        "Class *": "1",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Omnitronix",
+        "Model Name *": "SNMP-Link SL10",
+        "Class *": "1",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0100",
+        "Class *": "1",
+        "Rack Units *": "480"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0100",
+        "Class *": "2",
+        "Rack Units *": "480"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0102",
+        "Class *": "1",
+        "Rack Units *": "480"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0102",
+        "Class *": "2",
+        "Rack Units *": "480"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0103",
+        "Class *": "1",
+        "Rack Units *": "480"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0103",
+        "Class *": "2",
+        "Rack Units *": "480"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0800",
+        "Class *": "1",
+        "Rack Units *": "480"
+    },
+    {
+        "Make *": "Raritan",
+        "Model Name *": "SRC-0800",
+        "Class *": "2",
+        "Rack Units *": "480"
+    },
+    {
+        "Make *": "Visual Networks",
+        "Model Name *": "T1/FT1 DSU/ASE",
+        "Class *": "1",
+        "Rack Units *": "60"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "Watchdog 15-P",
+        "Class *": "1",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "RLE Technologies",
+        "Model Name *": "WiNG-MGR",
+        "Class *": "1",
+        "Rack Units *": "15"
+    },
+    {
+        "Make *": "R-Werks",
+        "Model Name *": "XB3 Gateway-Probe",
+        "Class *": "1",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Max Number Slots *",
+        "Rack Units *": ""
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Unavailable *",
+        "Rack Units *": ""
+    },
+    {
+        "Make *": "Make*",
+        "Model Name *": "Model Name *",
+        "Class *": "",
+        "Rack Units *": ""
+    }
+]

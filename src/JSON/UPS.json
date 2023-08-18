@@ -1,0 +1,5840 @@
+[
+    {
+        "Make *": "Eaton",
+        "Model Name *": "103007415-5208",
+        "Class *": "UPS",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Benning",
+        "Model Name *": "200 kW UPS Entertronic Modular SE",
+        "Class *": "UPS",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "38SA160A0A00",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "38SA500AAAGA982",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Eltek Valere",
+        "Model Name *": "3RU-Battery Backup",
+        "Class *": "UPS",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "51SA150HBA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "80-eXL",
+        "Class *": "UPS",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "9395P 600 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "9700 100",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "9700 150",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "9700 225",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "9900B 300/300",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "9900B 500/500",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "9900B 750/750",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "9933A-A234DU-4",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AIS5000-IS10KG",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "AWP",
+        "Model Name *": "Alpha RT 10",
+        "Class *": "UPS",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "AWP",
+        "Model Name *": "Alpha RT 15",
+        "Class *": "UPS",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "AWP",
+        "Model Name *": "Alpha RT 20",
+        "Class *": "UPS",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "ALPR10",
+        "Class *": "UPS",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "AP341",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "AP356",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "AP366",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "AP376",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "APC SMX2000RMLV2U",
+        "Class *": "UPS",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "APM 150K",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Building UPS",
+        "Class *": "UPS",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "ActivePower",
+        "Model Name *": "CSDC-250",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "Easy UPS 20Kva E3SUPS20KHB",
+        "Class *": "UPS",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9150 10 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9150 12.5 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9150 8 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW12S12K",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW12S12K-PD",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW12S15K",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW12S15K-PD",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW12S18K",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW12S18K-PD",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW12S9K",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW12S9K-PD",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW3S3K",
+        "Class *": "UPS",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW3S3K-LPD",
+        "Class *": "UPS",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW6S3K",
+        "Class *": "UPS",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW6S3K-LPD",
+        "Class *": "UPS",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW6S3K-PD",
+        "Class *": "UPS",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW6S6K",
+        "Class *": "UPS",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW6S6K-LPD",
+        "Class *": "UPS",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW6S6K-PD",
+        "Class *": "UPS",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW6S9K",
+        "Class *": "UPS",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW6S9K-PD",
+        "Class *": "UPS",
+        "Rack Units *": "20"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW9S9K",
+        "Class *": "UPS",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9170 PW9S9K-PD",
+        "Class *": "UPS",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 20 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 30 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 40 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 50 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 60 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 80 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 N 10 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 N 15 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 N 7.5 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 NC 10 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9305 NC 15 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-100 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-100 220/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-100 400/400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-100 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-100 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-100 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-100 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-130 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-130 220/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-130 400/400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-130 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-130 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-130 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-130 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-160 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-160 220/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-160 400/400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-160 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-160 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-160 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-160 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-200",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-225 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-225 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-225 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-250",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-250/200",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-300/225 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-300/225 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "53"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-300 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-300 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "53"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-400",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-400/300",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-500",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-500/400 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-500/400 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-500/400 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-50 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-50 220/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-50 400/400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-50 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-50 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-50 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-50 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-65 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-65 220/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-65 400/400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-65 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-65 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-65 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-65 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-750 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-750 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-750/625 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-750/625 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-80 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-80 220/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-80 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-80 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9315-80 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO2 10 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO2 20 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO2 30 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO2 40 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO3 10 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO3 20 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO3 30 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO3 40 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9320-CO3 60 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 10kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 10kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 10kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 10kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 15kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 15kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 15kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 15kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 20kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 20kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 20kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 20kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 25kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 25kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 25kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 25kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 30kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 30kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 30kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 30kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 35kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 35kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 35kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 35kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 40kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 40kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 40kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9330 40kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1011100000010",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1011200000010",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1012100000010",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1012200000010",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1013400000010",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1013600000010",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1511100000010",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1511200000010",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1512100000010",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1512200000010",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1513400000010",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KA1513600000010",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KB2013100000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KB2013200000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KB3013100000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KB3013200000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KBT001100000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KBT001200000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KBT001300000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KBT002100000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KBT002200000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KBT002300000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9355 KBT003200000010",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9390 IAC-B",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9390 IAC-T",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9390 IBC-S",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9390IT TA0411001150010",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9390IT TA0412001150010",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9390 UPS",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9395 1000, 1100 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9395 225, 275 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9395 225, 275 kVA+1",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9395 450, 500, 550 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9395 450, 500, 550 kVA+1",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9395 650, 750, 825 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton 9395 650, 750, 825 kVA+1",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE10",
+        "Class *": "UPS",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE12.5",
+        "Class *": "UPS",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE1.8",
+        "Class *": "UPS",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE18",
+        "Class *": "UPS",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE2.1",
+        "Class *": "UPS",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE3.1",
+        "Class *": "UPS",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE4.3",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE5.3",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton FERRUPS FE7",
+        "Class *": "UPS",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 10 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 10 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 10 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 20 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 20 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 20 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 30 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 30 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 30 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 40 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 40 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII HE 40 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 100kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 100kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 100kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 100kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 130kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 130kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 130kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 130kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 160kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 160kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 160kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-160 160kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 30kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 30kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 30kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 30kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 40kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 40kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 40kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 40kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 50kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 50kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 50kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-50 50kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 50kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 50kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 50kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 50kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 65kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 65kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 65kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 65kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 80kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 80kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 80kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII-80 80kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 50kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 50kVA 400/400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 50kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 50kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 50kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 62.5kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 62.5kVA 400/400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 62.5kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 62.5kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 62.5kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 75kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 75kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 75kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIII HE 75kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII-S HE 15 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII-S HE 15 480/120",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII-S HE 30 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPII-S HE 30 480/120",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 10kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 10kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 10kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 10kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 15kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 15kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 15kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 15kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 20kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 20kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 20kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 20kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 25kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 25kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 25kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 25kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 30kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 30kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 30kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Powerware BPIV 30kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Pulsar EXL10",
+        "Class *": "UPS",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Pulsar EXL5",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton Pulsar EXL7.5",
+        "Class *": "UPS",
+        "Rack Units *": "21"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 10 kVA 32",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 10 kVA 64",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 12 kVA 32",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 12 kVA 32 TM",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 12 kVA 64",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 15 kVA 32",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 15 kVA 64",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 8 kVA 32",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 8 kVA 32 TM",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton PW 9155 8 kVA 64",
+        "Class *": "UPS",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT3100",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT3120",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT3160",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT3220",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT340",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT360",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT380",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT3K",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT4K",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT5K",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Eaton UNITY/I-UT8K",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "ESX 30kVA",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "EXC30062",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "EXL S1 1000-1200 KVA",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "EXL S1 1000 KVA",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "EXL S1 200KVA",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "EXM UPS",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "G5TBAT",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Toshiba",
+        "Model Name *": "G8000MM",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Toshiba",
+        "Model Name *": "G9000",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "GALAXY 5500",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "Galaxy VM - GVMSB160KG65S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "Galaxy VM - GVSUPS100KGS",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Galaxy VS 50kW",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Generic UPS",
+        "Class *": "UPS",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "GVSUPS50KFS",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-208",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-208X",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-240X",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-208",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-208X",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-240X",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HiPulse 160 (12P) kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HiPulse 160 (6P) kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HiPulse 200 (12P) kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HiPulse 200 (6P) kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HiPulse 300 (12P) kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HiPulse 300 (6P) kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HiPulse 400 (12P) kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HiPulse 400 (6P) kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Liebert FS",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Comet 150kVA",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3000 G3KUPS10",
+        "Class *": "UPS",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3000 G3KUPS15",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3000 G3KUPS20",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3000 G3KUPS30",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3000 G3TUPS10",
+        "Class *": "UPS",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3000 G3TUPS15",
+        "Class *": "UPS",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3000 G3TUPS20",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3000 G3TUPS30",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 10 KVA",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KF1B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KF1B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KF2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KF2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KF4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KH1B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KH1B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KH2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KH2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KH3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T10KHS",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15K3I2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15K3I2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15K3I3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15K3I4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KF2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KF2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KF4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KH2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KH2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KH3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T15KHS",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20K3I2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20K3I2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20K3I3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20K3I4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20KF2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20KF4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20KH2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20KH2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20KH3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T20KHS",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T30K3I3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T30K3I4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T30KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T30KF4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T30KH3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T30KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T30KHS",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T40K3I4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T40KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 3500 G35T40KHS",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 4000 G4TUPS40",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 4000 G4TUPS50",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 4000 G4TUPS65",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 4000 G4TUPS75",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS100",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS120",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS130",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS20",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS30",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS40",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS50",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS60",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5000 G5TUPS80",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 5500 80Kva",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 6000 G6TUPS250",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 6000 G6TUPS300",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 6000 G6TUPS400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 6000 G6TUPS450",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 6000 G6TUPS500",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 6000 G6TUPS600",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 7000 1200Kva",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "MGE Galaxy 7000 300 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 7000 G7TUPS160",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 7000 G7TUPS200",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 7000 G7TUPS250",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 7000 G7TUPS300",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 7000 G7TUPS400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 7000 G7TUPS500",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 9000 G9TUPS800",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy 9000 G9TUPS900",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E6TUPS300",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E7TUPS300",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E7TUPS400",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E7TUPS500",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E8TUPS1000",
+        "Class *": "UPS",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E8TUPS555",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E8TUPS625",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E8TUPS750",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE Galaxy EPS E8TUPS800",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE GALAXY PW GWTUPS150",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE GALAXY PW GWTUPS160",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE GALAXY PW GWTUPS180",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE GALAXY PW GWTUPS200",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE GALAXY PW GWTUPS225",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE PM168-42-150",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE PMN252-42-150s",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MGE POWER MANAGEMENT MODULE 300",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MHE 120 P",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MHT 600",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MST 100",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MST 125",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MST 160",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MST 200",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MST 30",
+        "Class *": "UPS",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MST 40",
+        "Class *": "UPS",
+        "Rack Units *": "30"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MST 60",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Riello",
+        "Model Name *": "MST 80",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "MX5000",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "NetSure 501 Cabinet",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NLX 250 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NLX 300 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NLX 400 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower 100 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower 130 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower 30 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower 40 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower 50 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower 65 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower 80 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1FJ",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1HJ",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1LJ",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1MJ",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1PJ",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1PJ (130)",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1RJ",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1UJ",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Npower Cabinet 1WJ",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NterpriseIP 15000",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NterpriseIP 4500",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NterpriseIP 6000",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 100 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 10 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 120 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 15 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 160 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 200 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 20kVA",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 30kVA",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 40 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 60 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 80 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NX 80w kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0100F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0100G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0100U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0120F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0120G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0120U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0140F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0140G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0140U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0160F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0160G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0160U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0200F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0200G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A0200U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A030F",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A030G",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A030U",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A040F",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A040G",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A040U",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A060F",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A060G",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A060U",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A080F",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A080G",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXA0A080U",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0100F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0100G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0100U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0120F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0120G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0120U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0140F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0140G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0140U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0160F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0160G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0160U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0200F",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0200G",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A0200U",
+        "Class *": "UPS",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A030F",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A030G",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A030U",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A040F",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A040G",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A040U",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A060F",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A060G",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A060U",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A080F",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A080G",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXE0A080U",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "NXL 750 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Cyberex",
+        "Model Name *": "PDM522-130AACAA1-E000A-A1031",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Powerware 500",
+        "Class *": "UPS",
+        "Rack Units *": "38"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "Power Xpert 9395",
+        "Class *": "UPS",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "PSA4-1500MT120",
+        "Class *": "UPS",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "LifeSafety",
+        "Model Name *": "RA150",
+        "Class *": "UPS",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "SBP16KP",
+        "Class *": "UPS",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 312 10kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 312 10kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 312 10kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 312 10kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 322 15kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 322 15kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 322 15kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 322 15kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 332 20kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 332 20kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 332 20kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 332 20kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 342 30kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 342 30kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 342 30kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 342 30kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 347 40kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 347 40kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 347 40kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 347 40kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 357 50kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 357 50kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 357 50kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 357 50kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 362 65kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 362 65kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 362 65kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 362 65kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 367 75kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 367 75kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 367 75kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 367 75kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 377 100kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 377 100kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 377 100kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 377 100kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 382 125kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 382 125kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 382 125kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 382 125kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600 1000kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600 338kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600 400kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600 500kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600 625kVA",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600 750kVA HL",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600 750kVA LL",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 100kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 100kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 100kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 125kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 125kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 125kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 150kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 150kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 150kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 225kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 225kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 225kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 300kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 300kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 300kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 375kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 375kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 375kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 450kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 500kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 500kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 625kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 625kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 65kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 65kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 65kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 750kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 750kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 80kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 80kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 600T 80kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "39"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 1000 (12P)kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 1000 (12P)kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 100kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 100kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 100kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 100kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 100kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 125kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 125kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 125kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 125kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 125kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 150kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 150kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 150kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 150kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 150kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 225kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 225kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 225kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 225kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 225kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 300kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 300kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 300kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 300kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 300kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 400kVA 208/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 400kVA 480/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 400kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 400kVA 600/208",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 400kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 450kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 500 (12P)kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 500 (12P)kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 500 (6P)kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 500 (6P)kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 625 (12P)kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 625 (12P)kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 625 (6P)kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 625 (6P)kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 750 (12P)kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 750 (12P)kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 750 (6P)kVA 480/480",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Series 610 750 (6P)kVA 600/600",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Silicon 60kW 400V UPS",
+        "Class *": "UPS",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTJP20KF2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTJP30KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KF1B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KF1B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KF2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KF2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KF4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KH1B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KH1B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KH2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KH2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KH3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP10KHS",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KF2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KF2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KF4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KH2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KH2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KH3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP15KHS",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP20KF2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP20KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP20KF4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP20KH2B2S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP20KH2B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP20KH3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP20KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP20KHS",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP30KF3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP30KF4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP30KH3B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP30KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP30KHS",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP40KH4B4S",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTP40KHS",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR20KF2B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR20KF3B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR20KF4B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR20KF5B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR20KG2B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR20KG3B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR20KG4B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR20KG5B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KF3B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KF4B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KF5B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KG3B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KG4B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KG5B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KH3B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KH4B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR30KH5B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR40KH4B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR40KH5B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTR40KHS",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRJ20KF2B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRJ30KF3B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRT20KF2B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRT20KF3B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRT20KF4B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRT20KF5B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRT30KF3B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRT30KF4B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart UPS SUVTRT30KF5B5S",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Smart-UPS VT 15 kVA",
+        "Class *": "UPS",
+        "Rack Units *": "34"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "SYCFXR8",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra 160K",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra 80K",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX16kVA (Type SYA12K16)",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA12K16I",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA12K16IXR",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA12K16JXR",
+        "Class *": "UPS",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA12K16P",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA12K16PXR",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA12K16RMI",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA12K16RMJ",
+        "Class *": "UPS",
+        "Rack Units *": "15"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA12K16RMP",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA16K16I",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA16K16IXR",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA16K16JXR",
+        "Class *": "UPS",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA16K16P",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA16K16PXR",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA16K16RMI",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA16K16RMJ",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA16K16RMP",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA4K8I",
+        "Class *": "UPS",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA4K8P",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA4K8RMI",
+        "Class *": "UPS",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA4K8RMJ",
+        "Class *": "UPS",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA4K8RMP",
+        "Class *": "UPS",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K16I",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K16IXR",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K16JXR",
+        "Class *": "UPS",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K16P",
+        "Class *": "UPS",
+        "Rack Units *": "22"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K16PXR",
+        "Class *": "UPS",
+        "Rack Units *": "35"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K16RMI",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K16RMJ",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K16RMP",
+        "Class *": "UPS",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K8I",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra LX SYA8K8P",
+        "Class *": "UPS",
+        "Rack Units *": "16"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW1000",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF1000KG",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF1000KH",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF1200KG",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF1200KH",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF1400KG",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF1400KH",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF1600KG",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF1600KH",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF400KG",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF400KH",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF600KG",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF600KH",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF800KG",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra MW SYMF800KH",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "Symmetra PX100 SYCF100KF",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX 40kW",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "SYMMETRA PX 40kW EXTENDED RUN BATTERY FRAME",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX 80K",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY100K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY100K250DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY10K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY10K40F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY10K80F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY125K250DL-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY125K250DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY125K500DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY128K160H",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY128K160HJ-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY128K160H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY150K250DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY160K160H",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY160K160HJ-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY160K160H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY16K48H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY200K250DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY20K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY20K40F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY20K80F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY20K80H",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY250K500DL-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY250K500DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY300K500DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY30K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY30K40F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY30K80F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY32K160H",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY32K160HJ-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY32K160H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY32K48H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY32K96H",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY32K96H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY400K500DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY40K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY40K40F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY40K80F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY48K48H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY500K500DL-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY500K500DR-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY50K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY50K80F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY60K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY60K80F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY64K160H",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY64K160HJ-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY64K160H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY64K96H",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY64K96H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY70K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY70K80F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY80K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY80K80F",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY80KF80F",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY90K100F",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY96K160H",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY96K160HJ-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY96K160H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY96K96H",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SY96K96H-PD",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "Symmetra PX SYCFJXR8",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "U39MM751A0AR",
+        "Class *": "UPS",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UDA63080A36H",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UDA63100C25RT04",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UDA63125C25RT04",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UDA63229C36A880",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UDA63300A36A",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UDA63500A363H343",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UDA63500A36H572",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UDC63050C25RT04",
+        "Class *": "UPS",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "UP9933A-A154DU-4",
+        "Class *": "UPS",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "EMC",
+        "Model Name *": "UPS-350-VA",
+        "Class *": "UPS",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Dell",
+        "Model Name *": "UPS 4200W",
+        "Class *": "UPS",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "UPS Bank",
+        "Class *": "UPS",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "UPS RP36000/3 AF438A",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "UPS RP36000/3 AF439A",
+        "Class *": "UPS",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 10kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 10kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 10kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 10kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 10kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 12kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 12kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 12kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 12kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 12kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 18kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 18kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 18kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 18kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 18kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 12kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 12kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 12kVA 400",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 12kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 12kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 16kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 16kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 16kVA 400",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 16kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 16kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 20kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 20kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 20kVA 400",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 20kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 20kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 24kVA 208",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 24kVA 240",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 24kVA 400",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 24kVA 480",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S3 24kVA 600",
+        "Class *": "UPS",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 4.5kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 4.5kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 4.5kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 4.5kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 4.5kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.2kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.2kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.2kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.2kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.2kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.5kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.5kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.5kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.5kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.5kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.8kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.8kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.8kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.8kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5.8kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 5kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 6kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 6kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 6kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 6kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 6kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 8kVA 200/100",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 8kVA 208/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 8kVA 220/110",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 8kVA 230/115",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UPStation S 8kVA 240/120",
+        "Class *": "UPS",
+        "Rack Units *": "17"
+    },
+    {
+        "Make *": "",
+        "Model Name *": "",
+        "Class *": "",
+        "Rack Units *": ""
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Port Type *",
+        "Rack Units *": "Data Rate *"
+    },
+    {
+        "Make *": "AWP",
+        "Model Name *": "Alpha RT 10",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "AWP",
+        "Model Name *": "Alpha RT 15",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "AWP",
+        "Model Name *": "Alpha RT 20",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "ALPR10",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-208",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-208",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-208X",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-208X",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-240X",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT10000T-240X",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-208",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-208",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-208X",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-208X",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-240X",
+        "Class *": "Physical",
+        "Rack Units *": "10/100 Base-T"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "GXT6000T-240X",
+        "Class *": "Physical",
+        "Rack Units *": "9600 Baud"
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Index",
+        "Rack Units *": "Volts *"
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Index",
+        "Rack Units *": "Nameplate Watts *"
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Max Number Slots *",
+        "Rack Units *": ""
+    },
+    {
+        "Make *": "Make *",
+        "Model Name *": "Model Name *",
+        "Class *": "Unavailable *",
+        "Rack Units *": ""
+    },
+    {
+        "Make *": "Make*",
+        "Model Name *": "Model Name *",
+        "Class *": "",
+        "Rack Units *": ""
+    }
+]

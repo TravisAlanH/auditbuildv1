@@ -1,0 +1,3908 @@
+[
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-13",
+        "Class *": "Battery",
+        "Rack Units *": "12"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-29",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-31",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-45",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A75-S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A81",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A87",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A87-T",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100A-99",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100G29",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "100G33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "1-100G99",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR100",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR100-3ET",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR100 (4)",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR100ET",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR-130",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR145ET",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR-145L",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "12AVR-145LLP",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR145L/LP",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR-145LLP (East Penn)",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR-150ET",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR150ET",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR170ET",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR170ET (4)",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR200ET",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR-30",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR-40",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR75",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "12AVR-90",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "12FAT100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "12FAT155",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "12 FAT 75",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX12-400",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "DataSafe",
+        "Model Name *": "12HX300",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX300 FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX300-FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX300FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX330-FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX330FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX400",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX400-FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX400FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "DataSafe",
+        "Model Name *": "12HX500-FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX505-FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX540-FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12HX540FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "12IR150LP",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "SONNENSCHEIN",
+        "Model Name *": "12OPZV1500",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "12SLA30LG",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12SLA75",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FAIMM",
+        "Model Name *": "12UMBT 160",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "12 UMTX 170",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "12V",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V100F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V105F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V125F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V155F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V155FS (4)",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V 190F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V55",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V62-FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12V80",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "12VF100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "12V OPVZ 1500",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "160BT",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "SONNENSCHEIN",
+        "Model Name *": "16OPZV2000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "180BT",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "1AVR85-63",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "1AVR85-99",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "SONNENSCHEIN",
+        "Model Name *": "20OPZV2500",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "210BT",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2CC-7",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "OERLIKON",
+        "Model Name *": "2CP1000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "OERLIKON",
+        "Model Name *": "2CP1600",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "OERLIKON",
+        "Model Name *": "2CP650",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2DDM85-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2DDM85-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2GT-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2GT-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2GU-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "2GU-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2GU-13-EN",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2GU-9",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "2SLA1000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FAIMM",
+        "Model Name *": "2SLA1205",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "2V400/2",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "LUCENT",
+        "Model Name *": "2VR375E",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "2XTHC33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "2XTHCP33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "3-100G13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "3-100G17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "3-100G19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "3-100G21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "3-100G25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "3-85A25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "3-85A29",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "3A-75-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "LUCENT",
+        "Model Name *": "3A-85-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "LUCENT",
+        "Model Name *": "3A-85-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "3AVR2/95-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR2/95-33L",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "3AVR85",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR85-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR85-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "3AVR95-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-19ILM",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-21ILM",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "3AVR95-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "3AVR95-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-25ILM",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "3AVR95-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "3AVR95-29",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-29ILM",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-31",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "3AVR9533",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "3AVR95-33ILM",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "3CC-3",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "3CC-7",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "3CC-9",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "3CX-5",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "3CX-5MB",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "3VA13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "4-100LF33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "PECO II",
+        "Model Name *": "438135NP-L20",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "4AT-27P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "4DX-9",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "4JC100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "4LCY420",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "4LCY544",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "4LCY660",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "4SLA150",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "50A-05",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "50A-07",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "50A-09",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "50A-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "SONNENSCHEIN",
+        "Model Name *": "5OPZV250",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "6-50G07",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "6-90G09",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "6AVR 2/75-7",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "6AVR 2/75-9L",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "6AVR2-95-31",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "6AVR75-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "6AVR95-09",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "6AVR95-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "6AVR95-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "6DC-60-7",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "6SLA100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "FIAMM",
+        "Model Name *": "6SLA160",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "6TM-1600",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "6VA15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Chloride Power",
+        "Model Name *": "6VF11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "75A11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "75A13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "75A23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "75A-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "75A27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "85A27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "SONNENSCHEIN",
+        "Model Name *": "8OPZV800",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "90A-07V",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "90A-09",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "90A-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "90A-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "90A-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "90A15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "90A17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "90A-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "90A-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "90A23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "90A-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "90A27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "A602/1010",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "ABSOLYTE 100G33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide Tech.",
+        "Model Name *": "ABSOLYTE IIP 100A29",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Exide Tech.",
+        "Model Name *": "ABSOLYTE IIP 100A33",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Exide Tech.",
+        "Model Name *": "ABSOLYTE IIP 100A99",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Exide Tech.",
+        "Model Name *": "ABSOLYTE IIP 90A11",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "NARADA",
+        "Model Name *": "AG12V100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 100FT",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 100FTX",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 155FT",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 155FTX",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 170FT",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 170FTX",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 190FT",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 190FTX",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 210FT",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "AlphaCell 210FTX",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AP-19P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-07",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-07P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-09",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT15P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-17P",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT17P",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-19P",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-21P",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT21P",
+        "Class *": "Battery",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-23P",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT23P",
+        "Class *": "Battery",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-25P",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT25P",
+        "Class *": "Battery",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-27P",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT27P",
+        "Class *": "Battery",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-29P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-35",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-35P",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT35P",
+        "Class *": "Battery",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT-39P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "AT39P",
+        "Class *": "Battery",
+        "Rack Units *": "36"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "ATL-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "ATL-35",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR125-33 3Wx8H",
+        "Class *": "Battery",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR125-33 4Wx6H",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR125-33 (single cell)",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-11",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-13",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-15",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-17",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-19",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-21",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-23",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-25",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-27",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-29",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-31",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-33",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-5",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-7",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR45-9",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-11",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-13",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-15",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-17",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-19",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-21",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-23",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-25",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-27",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-29",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-31",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-33",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-5",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-7",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR75-9",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR85-31",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR85-33",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "AVR85-33-DE",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "AVR95-09",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-11",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR 95-11S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "AVR-95-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-13",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-15",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-17",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-19",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-21",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "AVR95-21-DE",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-23",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-25",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "AVR-95-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-27",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-29",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-31",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "AVR95-31-DE",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-33",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "AVR95-33-DE",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-7",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "AVR95-9",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "BATTERY FILLER",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "NORTHSTAR BATTERY CO",
+        "Model Name *": "BATTERY STRING",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "BC-6",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "C&D~TEL12-180FS~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Eagle-Picher",
+        "Model Name *": "CF6V50FRS9",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "POWER SAFE",
+        "Model Name *": "CHLORIDE 12V100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "Datasafe 12H360+",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "Datasafe 12H360FR+",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DC90",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DD85-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDH125-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDH125-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDHXX-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM100-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM100-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM100-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDm 100-33",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM100-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM125-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM 125-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDm 125-33",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM125-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM50-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM85-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM85-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDM85-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDMP85-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDS125-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDS125-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDS125-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDS125-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDS125-33-EN",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDS85-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDS85-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDS85-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDV40-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDV40-7",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDV85-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDV85-11-EN",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDV85-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDV85-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "DDV85-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDVXX-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDVXX-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "DDVXX-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "Deka~12AVR170ET~12AVR170ET~7",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "DEKA~AVR85-33~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "DEKA~AVR95-21~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "DEKA~AVR95-31~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "DEKA~AVR95-33~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "DEKA UNIQY II 1AVR85",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "DEKA UNIQY II 3AVR85",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "East Penn",
+        "Model Name *": "DEKA UNIQY II 3AVR95",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "DYNASTY TEL 12-105F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "DYNASTY TEL 12-150F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "DYNASTY TEL 12-150FS",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "DYNASTY TEL 12-90",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "MinuteMan",
+        "Model Name *": "EBP36XL",
+        "Class *": "Battery",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "EC-13M",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "EC-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "EMF-80R",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "ENER~2GU-13~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "ENER~DDS125-33~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "ENER~DDV85-11~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "ENER~FTC-23P~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "ENER~GU-21~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "ENER~GU-25~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "ENER~GU-27~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "ENER~GU-29~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "YUASA",
+        "Model Name *": "ENL 100-6",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "YUASA",
+        "Model Name *": "ENL 160-6",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "YUASA",
+        "Model Name *": "ENL 480-2",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "ET-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "EU-5",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Alpha Technologies",
+        "Model Name *": "EUB19225R60S1PX",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "EXID~GU-45~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "EXID~H1T-41~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "EXID~HCT-41~",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "FA12-100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "FA 12-150",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTA-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTA-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTA-29",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTC-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTC-11P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTC-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTC-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "FTC-19P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTC-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "FTC-21P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "FTC-23P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "FTC-25P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "FTC-27P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "FTC-29P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GC-45",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "WORLDCOM",
+        "Model Name *": "GENERIC 3700",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "Generic WLS Battery",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Interstate",
+        "Model Name *": "GR12-180F",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Interstate",
+        "Model Name *": "GR12-210F",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GT-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GT-41",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GT-45",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-21-EN",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-23P",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-25-EN",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-27-EN",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-29",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-29-EN",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-31",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-35",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-37",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-37 -S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-39",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-41",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-43",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GU-45",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-45-EX",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "GU-45-S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "GW-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "H1T-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "H1T-39",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "H1T-41",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HAT-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HAT-37",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT-29",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT 3280",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT-35",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT-37",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT-41",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "HCT-41-EX",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-1040",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-1100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD1100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-1300",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-2000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-300",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-400",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-500",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-700",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HD-900",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "HDL-785",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "HT145ET",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "HT150ET",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "HT170ET",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "HT200ET",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "HT30",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "HT30ET",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "Deka Unigy",
+        "Model Name *": "HT80ET",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "HX135-12FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "HX400-12FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "HX400FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "HX505-12FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "HX505-FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "HX540FR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "IR-30C",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "IR-40EC",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "ATLAS POWER",
+        "Model Name *": "KBX21000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KCT-270",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KCT-360",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KCT-450",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KCT-540",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KCT-660",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KCT-720",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KS-15544 L-405",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KS-15544 L-501",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "KS-15544 L-508",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "KS-20472 L-1",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "KS-20472 L-1S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "KS-20472 L-2",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "KS-20472 L-2S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "KS-20472 L-3",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "KS-20472 L-3S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "LUCENT",
+        "Model Name *": "KS-20472 LIST 1S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "AT&T",
+        "Model Name *": "KS20472 LIST-1S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Lineage Power",
+        "Model Name *": "KS20472 LIST-3S",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Tyco",
+        "Model Name *": "KS 23997 LIST 2",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-1008",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-1176",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-1344",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT 1680",
+        "Class *": "Battery",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-1680",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-1680HP",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-1680PVC",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-1700",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-1848",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-2016",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-2175",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-2320",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCT-840",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCTII-1700",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LCW-39",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LIBERTY 1000 FAM 12-",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LS 12-100",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LS6-200",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-1010",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-1120",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-1340",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-1680",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-1900",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-2020",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-2130",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-780",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "LST-900",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "M12V105FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "M12V125FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "M12V155FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "M12V180FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "M12V190FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "M12V30",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "M12V35FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "M12V40",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "M12V50FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "M12V60FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "M12V70",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "M12V90",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "M12V90FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "MAT-7",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "PECO II",
+        "Model Name *": "MCI DP",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCR-2800",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCR-3000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCR-3210",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCR-3420",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCR-3635",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCR-3850",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCT-3000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCT-3300",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCT-3500",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCT-4000",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCT II-3000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCT II-3300",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCT II-4000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCTII-4000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MCTII-4000 ZONE2",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "MCX-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "MCX-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "MCX-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MR-2800",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MR-3000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MR-3210",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MR-3635",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "M-SERIES",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MT-3500",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "MT-4000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Hitachi",
+        "Model Name *": "MU-1500",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NAT-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NAT-35",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NAT/NCT 21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NAX-1344",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NAX-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NAX-9",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NAX/NCX-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NAX/NCX 15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NAX/NCX 1500",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NAX/NCX 2016",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NAX/NCX 23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NAX/NCX 2400",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-15",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-19",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-21",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-27",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-33",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-7",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "NCT-9",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NCX-17",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NCX-23",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NCX-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NCX-35",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "NCX-840",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "YUASA",
+        "Model Name *": "NPL 38-12",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "YUASA",
+        "Model Name *": "NPX-100FRF",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "NORTHSTAR BATTERY CO",
+        "Model Name *": "NSB100FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "NORTHSTAR BATTERY CO",
+        "Model Name *": "NSB110FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "NORTHSTAR BATTERY CO",
+        "Model Name *": "NSB-125",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Northstar",
+        "Model Name *": "NSB 170FT",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "NORTHSTAR BATTERY CO",
+        "Model Name *": "NSB-170 FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "NORTHSTAR BATTERY CO",
+        "Model Name *": "NSB170FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "NORTHSTAR BATTERY CO",
+        "Model Name *": "NSB180FT",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "NORTHSTAR BATTERY CO",
+        "Model Name *": "NSB 40FT RED",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "P125-25",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "PCX-8000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "PowerSafe 12V155FS",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "PowerSafe 12V170F",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "PowerSafe SBS 190F",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "PSI5-48VBATTTAA",
+        "Class *": "Battery",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "RHD-600",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-100F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS112F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-170F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-190F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-40",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "YUASA",
+        "Model Name *": "SBS 780",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-8",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-C11",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-C11F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-HB30",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EnerSys",
+        "Model Name *": "SBS-J30",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "SMX120RMBP2U",
+        "Class *": "Battery",
+        "Rack Units *": "2"
+    },
+    {
+        "Make *": "GNB",
+        "Model Name *": "SPRINTER P12V875",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "Symmetra LX SYARMXR3B3",
+        "Class *": "Battery",
+        "Rack Units *": "5"
+    },
+    {
+        "Make *": "GLOBE",
+        "Model Name *": "TCC-1415",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GLOBE",
+        "Model Name *": "TCC-1550",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GLOBE",
+        "Model Name *": "TCC-1680",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "GLOBE",
+        "Model Name *": "TCC-840",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL 12-105F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-105FNS",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-105FNSG",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-105FS",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-115FN",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-115FNG",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-125",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL 12-125F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL 12-125T",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-145FW",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-150FS",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-155F",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-155FG",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL 12-160F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-160F",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-160FW",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL 12-170F",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-170F",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-170FG",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-180F",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-180FS",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-180FS-C&",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-190F",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-190FG",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-210F",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-210Fa",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL 12-210F/FG",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-210F/FG",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-210FG",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-210FS",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-30",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-30SLC",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL 12-45/SLC-BST",
+        "Class *": "Battery",
+        "Rack Units *": "4"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL 12-80",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-80",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-80SLC",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "TEL12-90",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "3Par",
+        "Model Name *": "TEST-BATTERY",
+        "Class *": "Battery",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "UPS12-1000MRF",
+        "Class *": "Battery",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "UPS12-370",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "UPS12-490MR",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "VEBCLI-48VRT1U",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "HOPPECKE",
+        "Model Name *": "VR M 6-220",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "XL-2000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Exide-GNB",
+        "Model Name *": "XL-5000",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "EXIDE",
+        "Model Name *": "XP12V3000",
+        "Class *": "Battery",
+        "Rack Units *": "6"
+    },
+    {
+        "Make *": "C&D",
+        "Model Name *": "XT4L-13",
+        "Class *": "Battery",
+        "Rack Units *": "1"
+    }
+]

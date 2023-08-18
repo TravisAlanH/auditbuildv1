@@ -1,0 +1,32 @@
+[
+    {
+        "Make *": "Eaton",
+        "Model Name *": "V48M28T30CUEE",
+        "Class *": "AC Distribution",
+        "Rack Units *": "18"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "V48M28T45CUEE",
+        "Class *": "AC Distribution",
+        "Rack Units *": "19"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "V48M28T75CUEE",
+        "Class *": "AC Distribution",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "V48M47T12CUEE",
+        "Class *": "AC Distribution",
+        "Rack Units *": "28"
+    },
+    {
+        "Make *": "Eaton",
+        "Model Name *": "V48M47T49CUEE",
+        "Class *": "AC Distribution",
+        "Rack Units *": "28"
+    }
+]

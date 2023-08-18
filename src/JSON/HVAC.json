@@ -1,0 +1,1526 @@
+[
+    {
+        "Make *": "Rittal",
+        "Model Name *": "3311.268",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACCS1000",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACCS1001",
+        "Class *": "HVAC",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACCS1003",
+        "Class *": "HVAC",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACCS1004",
+        "Class *": "HVAC",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACCS1005",
+        "Class *": "HVAC",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACCS1006",
+        "Class *": "HVAC",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACCS1007",
+        "Class *": "HVAC",
+        "Rack Units *": "43"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACF115",
+        "Class *": "HVAC",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACFD12-B",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACFD12-T",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACPA4000",
+        "Class *": "HVAC",
+        "Rack Units *": "27"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACPCW40-150",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACPDX21-86",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRC100",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRC103",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRC301S",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRC500",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRC501",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRC502",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "ACRC602",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRD100",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRD101",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRD200",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRD201",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRD500",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRD501",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRP100",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRP101",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRP500",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRP501",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACRP502",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "ACSC100",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Schrofftech",
+        "Model Name *": "AF000013-48V-ETH1",
+        "Class *": "HVAC",
+        "Rack Units *": "29"
+    },
+    {
+        "Make *": "Schrofftech",
+        "Model Name *": "AF000013-48V-ETH2",
+        "Class *": "HVAC",
+        "Rack Units *": "29"
+    },
+    {
+        "Make *": "Samsung",
+        "Model Name *": "AM022HN1DEH/EU",
+        "Class *": "HVAC",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Samsung",
+        "Model Name *": "AM128FN4DEH/EU",
+        "Class *": "HVAC",
+        "Rack Units *": "7"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "AP7003",
+        "Class *": "HVAC",
+        "Rack Units *": "18"
+    },
+    {
+        "Make *": "Eaton Williams",
+        "Model Name *": "BTAA30ED-09",
+        "Class *": "HVAC",
+        "Rack Units *": "59"
+    },
+    {
+        "Make *": "Weatherite",
+        "Model Name *": "BTRR35ECDF",
+        "Class *": "HVAC",
+        "Rack Units *": "56"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "BU067A-AAEI",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "BU067ADAMEI159S",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "BU068C-AMEI468A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "CB4140",
+        "Class *": "HVAC",
+        "Rack Units *": "58"
+    },
+    {
+        "Make *": "Cool Components",
+        "Model Name *": "Ceiling Grid Vent System VS-CGVS",
+        "Class *": "HVAC",
+        "Rack Units *": "1"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Challenger 3000",
+        "Class *": "HVAC",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Challenger ITR",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "MovinCool",
+        "Model Name *": "Classic 40",
+        "Class *": "HVAC",
+        "Rack Units *": "15"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "CR035RA",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CR035RA1A7",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CR040RC1A2A385",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CR040RC1A2A662",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CR040RC1A2A679",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CR040RC1C2A509",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Generic",
+        "Model Name *": "CRAC",
+        "Class *": "HVAC",
+        "Rack Units *": "26"
+    },
+    {
+        "Make *": "HP",
+        "Model Name *": "Cray CDU",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "STULZ",
+        "Model Name *": "CRS-180",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "STULZ",
+        "Model Name *": "CRS 320",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CRV-17",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CRV 78.5X24X47",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CT-306-G",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Greenheck",
+        "Model Name *": "CUE-131-VG",
+        "Class *": "HVAC",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Greenheck",
+        "Model Name *": "CUE-161-VG",
+        "Class *": "HVAC",
+        "Rack Units *": "11"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW026",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW038",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW041",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW051",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW060",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW076",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW084",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW106",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW114",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW114DC1A3",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "CW181DC1A1",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DA080DP1AD276B",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DA150DP1AT231A",
+        "Class *": "HVAC",
+        "Rack Units *": "31"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DE192GHAAEI",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DE363-G-AAEI",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DE363G-UAAES",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Deluxe System/3 - 10 Ton",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Deluxe System/3 - 20 Ton",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DH245A-AAEI",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DH245AUAAHS",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DH245AUCAEI0237",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DH380AHAAEI",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DH380AUAAEI",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Multi-Denco",
+        "Model Name *": "DMA045",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Multi-Denco",
+        "Model Name *": "DMA065D",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Multi-Denco",
+        "Model Name *": "DMA092",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Multi-Denco",
+        "Model Name *": "DMA130",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS028ARA10S",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS035AUD0EI510S",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS042AGA0EI973A",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS053ADA0EI870A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS070ADA0EI495A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS070AUA0EI846A",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS077AUA0EI870A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS077AUA0EI870B",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS077WRA0EI32A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS077WRADEI925A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS077WRAGEI032A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS 08",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS 10",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS105AMA00I527A",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS105AMA0EI350A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS105KUA0EI531A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS105KUA0EI893A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS 12",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS 15",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS 20",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS 22",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS 30",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "DS 70",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FE192G-A00",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FE240G",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH147C-A00",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH199AUA00",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH199AUAAM",
+        "Class *": "HVAC",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH219WUAAM",
+        "Class *": "HVAC",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH245A-AAM",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH245AUCAG",
+        "Class *": "HVAC",
+        "Rack Units *": "41"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH248C-AAES",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH376C-AAE1",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH422C-A00",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH4SSC-AGEI",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH529C-A10",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH529C-AAEI",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH529C-VAI00",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH740C",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH740C-AA00-3848",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH740C-AA00S033",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH740C-AAE0-9641",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FH740CV-AAE0-S002",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "FPA07C111PNXPB",
+        "Class *": "HVAC",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Data Aire",
+        "Model Name *": "GFAU-10634 GF AIR Cooled Upflow 106KW",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Data Aire",
+        "Model Name *": "GFGU-03534-E GF GLYCOL Cooled Upflow 35KW",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Data Aire",
+        "Model Name *": "Gforce GFCD-03234",
+        "Class *": "HVAC",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Data Aire",
+        "Model Name *": "Gforce GFCD-14134",
+        "Class *": "HVAC",
+        "Rack Units *": "57"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HD 780",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "HD 788",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Hiross UC 50",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Hiross UC 60",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Hiross UC 70",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "InRow AC - Chilled Water",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "InRow Air Conditioner Chilled Water",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "InRow RD Air Conditioner",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "InRow RP Chilled Water",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Rittal",
+        "Model Name *": "LCP-PlusEC SK 3300.470",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Rittal",
+        "Model Name *": "LCP-PlusEC SK 3300.480",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "Liebert DSE",
+        "Class *": "HVAC",
+        "Rack Units *": "32"
+    },
+    {
+        "Make *": "Emerson",
+        "Model Name *": "Liebert S11",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M12",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M12-F",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M14",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M14-6",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M15",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M15-E",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M16",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M4",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "M8",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "motivair",
+        "Model Name *": "MCDU-50",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Simplex",
+        "Model Name *": "MicroStar",
+        "Class *": "HVAC",
+        "Rack Units *": "10"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "Mini-Mate 2",
+        "Class *": "HVAC",
+        "Rack Units *": "14"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "MMD60E7A00HD",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "NetworkAir FM (FM35-50)",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "P1025DA13EHS12S1D000CZ000",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "P2070DA13DHS12S1D000CZ000",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "P3070DA13DSS12S1D000CZ0KB",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "P3080FASMS1RA63",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PCW1500D",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "PCW1500U",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "PCW-PH066",
+        "Class *": "HVAC",
+        "Rack Units *": "58"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PDX045",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PDX-PX074DA",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PDX-PX120EA",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "PH110",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "PHO25",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "PHO40",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "PHO60",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PI054",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "PKA-A36KA7",
+        "Class *": "HVAC",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "PUY-A36NKA7",
+        "Class *": "HVAC",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Mitsubishi",
+        "Model Name *": "PUY-A36NKA7-BS",
+        "Class *": "HVAC",
+        "Rack Units *": "9"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PW029DC1A2A180",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "PW029UC1A1S141",
+        "Class *": "HVAC",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Vertiv",
+        "Model Name *": "PX023UA1A8E598",
+        "Class *": "HVAC",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Geist",
+        "Model Name *": "RAC10",
+        "Class *": "HVAC",
+        "Rack Units *": "3"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "RACSC101",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "RACSC112",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "RACSC201",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "OptiCool Technologies",
+        "Model Name *": "RPW-210",
+        "Class *": "HVAC",
+        "Rack Units *": "47"
+    },
+    {
+        "Make *": "Ecosaire",
+        "Model Name *": "Series SN",
+        "Class *": "HVAC",
+        "Rack Units *": "42"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "TDAV1321A",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "TDCV4300A",
+        "Class *": "HVAC",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "APC",
+        "Model Name *": "TDCV4300G",
+        "Class *": "HVAC",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Schneider Electric",
+        "Model Name *": "TUCV1700",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "GEA",
+        "Model Name *": "U12CG",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 120A",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 126A",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 129W",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 130W",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 158C",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 180A",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 187A",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 198W",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 200W",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 216C",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 234C",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 238A",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 239A",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 249W",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 250W",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 374A",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 375A",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 379C",
+        "Class *": "HVAC",
+        "Rack Units *": "46"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 389W",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 390W",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 431C",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 474A",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 475A",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 499W",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 500W",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 545C",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 600C",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 649A",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 650A",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 689W",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "UP 690W",
+        "Class *": "HVAC",
+        "Rack Units *": "52"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "VE240GUAAEI",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "STULZ",
+        "Model Name *": "VFS-360-DAR-D-EC",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "VS070ADA0EI460A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "VSO77ARA0EI760A",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Bard",
+        "Model Name *": "W60A2-A0ZBXXXXJ",
+        "Class *": "HVAC",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Bard",
+        "Model Name *": "W60A2-C0ZBXXXXJ",
+        "Class *": "HVAC",
+        "Rack Units *": "49"
+    },
+    {
+        "Make *": "Bard",
+        "Model Name *": "W60AA-A0ZBXXXXJ",
+        "Class *": "HVAC",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Bard",
+        "Model Name *": "W60AA-B0ZBXXXXJ",
+        "Class *": "HVAC",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Bard",
+        "Model Name *": "W60ACPB0Z5PXXXE LC6000-200",
+        "Class *": "HVAC",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Bard",
+        "Model Name *": "W72AAPA0Z5PXXXE",
+        "Class *": "HVAC",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Bard",
+        "Model Name *": "WR58BPB0ZEPXXXX",
+        "Class *": "HVAC",
+        "Rack Units *": "44"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDC160AA",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDF-S",
+        "Class *": "HVAC",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDF-W",
+        "Class *": "HVAC",
+        "Rack Units *": "48"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDH20",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDH32",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDO16",
+        "Class *": "HVAC",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDO20",
+        "Class *": "HVAC",
+        "Rack Units *": "13"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDP160RA-1",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDR",
+        "Class *": "HVAC",
+        "Rack Units *": "45"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDV10",
+        "Class *": "HVAC",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "Liebert",
+        "Model Name *": "XDV8",
+        "Class *": "HVAC",
+        "Rack Units *": "8"
+    },
+    {
+        "Make *": "York",
+        "Model Name *": "XTI036X042BAGA046A",
+        "Class *": "HVAC",
+        "Rack Units *": "54"
+    },
+    {
+        "Make *": "Trane",
+        "Model Name *": "YCD150D4HOBB",
+        "Class *": "HVAC",
+        "Rack Units *": "29"
+    },
+    {
+        "Make *": "Trane",
+        "Model Name *": "YCD360A4KU2A6DE",
+        "Class *": "HVAC",
+        "Rack Units *": "76"
+    },
+    {
+        "Make *": "York",
+        "Model Name *": "YVAA0275EUV46BAVB",
+        "Class *": "HVAC",
+        "Rack Units *": "54"
+    }
+]
