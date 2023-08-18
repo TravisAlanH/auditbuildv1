@@ -4,7 +4,7 @@ import Cab from "../../../JSON/Step3";
 export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
   const [holdCabinets, setHoldCabinets] = React.useState(cabinet);
 
-  function AddAisle(e) {
+  function Add(e) {
     e.preventDefault();
     let CAData = {
       Operation: "ADD",
@@ -61,7 +61,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
               );
             })}
           </form>
-          <button onClick={AddAisle}>Add Cabinet</button>
+          <button onClick={Add}>Add Cabinet</button>
           <button onClick={() => setShow([1, 0, 0, 0, 0, 0, 0, 0])}>Submit Cabinets</button>
         </div>
       )}
