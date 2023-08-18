@@ -2,9 +2,6 @@ import React from "react";
 import Steps from "../../../Templates/Templates";
 import LabelInput from "../../Reuse/LabelInput";
 
-/// I NEED TO CLEAN THIS CODE UP
-/// REFACTOR
-
 export default function Location({ location, setLocation, show, setShow }) {
   const [holdData, setHoldData] = React.useState({
     Operation: "ADD",
@@ -24,7 +21,7 @@ export default function Location({ location, setLocation, show, setShow }) {
       Object: "LOCATION",
       LocationCode: e.target[0].value,
       LocationName: e.target[1].value,
-      Area: e.target[2].value,
+      DataCenterArea: e.target[2].value,
       Country: e.target[3].value,
     });
     setLocation(holdData);
