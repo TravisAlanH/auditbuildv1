@@ -3,6 +3,7 @@ import Cab from "../../../JSON/Step3";
 
 export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
   const [holdCabinets, setHoldCabinets] = React.useState(cabinet);
+  console.log(cabinet);
 
   function Add(e) {
     e.preventDefault();
@@ -15,6 +16,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
       Location: "",
       RowLabel: "",
       PositionInRow: "",
+      open: false,
     };
     let TempAisle = [...holdCabinets];
     TempAisle.push(CAData);
@@ -32,11 +34,38 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
         // Large
         <div>
           <form>
+            {/* maps the array of cabinets */}
             {holdCabinets.map((item, index) => {
+              // sets the keys in index
+              let allRows = Object.keys(item);
+              let rows = allRows;
+
+              // checks if the row is open for edit
+              if (!item.open) {
+                rows = ["Name"];
+                console.log(rows);
+              }
               return (
                 <div key={index}>
-                  {Object.keys(item).map((key, innerIndex) => {
-                    if (key === "Operation" || key === "Object") {
+                  {/* maps the rows (keys in array of objects) in each array */}
+                  {rows.map((key, innerIndex) => {
+                    // button for the edit
+                    let editButton = (
+                      <button
+                        onClick={(e) => {
+                          e.preventDefault();
+                          let TempCabinet = [...holdCabinets];
+                          TempCabinet[index].open = !TempCabinet[index].open;
+                          setHoldCabinets(TempCabinet);
+                          setCabinet(TempCabinet);
+                        }}
+                      >
+                        {/* open or closed based on current mapped object */}
+                        {holdCabinets[index].open ? "Close" : "Open"}
+                      </button>
+                    );
+
+                    if (key === "Operation" || key === "Object" || key === "open") {
                       return null;
                     } else {
                       return (
@@ -53,6 +82,8 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
                               setCabinet(TempCabinet);
                             }}
                           />
+                          {/* shows the button only on the Name key for edit */}
+                          {key === "Name" ? editButton : null}
                         </div>
                       );
                     }
