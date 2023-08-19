@@ -1,5 +1,4 @@
 import React from "react";
-import Steps from "../../../Templates/Templates";
 import LabelInput from "../../Reuse/LabelInput";
 
 export default function Location({ location, setLocation, show, setShow }) {

@@ -1,6 +1,5 @@
 import React from "react";
-import LabelInput from "../Reuse/LabelInput";
-import Steps from "../../Templates/Templates";
+
 import Location from "./Tabs/Location";
 import AisleRow from "./Tabs/AisleRow";
 import RackPDU from "./Tabs/RackPDU";
