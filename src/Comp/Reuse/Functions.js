@@ -1,0 +1,49 @@
+function levenshteinDistance(s1, s2) {
+  const m = s1.length;
+  const n = s2.length;
+  const dp = [];
+
+  for (let i = 0; i <= m; i++) {
+    dp[i] = [];
+    for (let j = 0; j <= n; j++) {
+      if (i === 0) {
+        dp[i][j] = j;
+      } else if (j === 0) {
+        dp[i][j] = i;
+      } else {
+        dp[i][j] = Math.min(dp[i - 1][j - 1] + (s1[i - 1] !== s2[j - 1] ? 1 : 0), dp[i - 1][j] + 1, dp[i][j - 1] + 1);
+      }
+    }
+  }
+
+  return 1 - dp[m][n] / Math.max(m, n);
+}
+
+export function findClosestMatches(userInput, dataArray) {
+  // let index = 0;
+  // let closestMatches = [];
+  // dataArray.forEach(element => {
+  //   if (dataArray[index]["MODEL"].includes(userInput)) {
+  //     closestMatches.push(index);
+  //   }
+  //   index++;
+  // });
+  // const closestIndices = closestMatches.slice(0, 8).map((entry) => entry.index);
+  // return closestIndices;
+
+  const scores = [];
+
+  dataArray.forEach((item, index) => {
+    const model = item["MODEL"] || "";
+    const score = levenshteinDistance(userInput, model);
+    scores.push({ index, score });
+  });
+
+  // Sort scores in descending order
+  scores.sort((a, b) => b.score - a.score);
+
+  // Return indices of the 8 closest matches
+  const closestIndices = scores.slice(0, 8).map((entry) => entry.index);
+  console.log(closestIndices);
+  return closestIndices;
+}

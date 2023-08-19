@@ -1,11 +1,8 @@
 import React from "react";
-import Steps from "../../../Templates/Templates";
 import LabelInput from "../../Reuse/LabelInput";
 
 export default function Location({ aisle, setAisle, show, setShow }) {
-  const TemplateData = Steps.AddAisleAndRow;
   const [holdAisle, setHoldAisle] = React.useState(aisle);
-  console.log(aisle);
 
   function AddAisle(e) {
     e.preventDefault();

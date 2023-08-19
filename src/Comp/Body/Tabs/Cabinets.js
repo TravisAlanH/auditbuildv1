@@ -1,9 +1,10 @@
 import React from "react";
 import Cab from "../../../JSON/Step3";
+import { findClosestMatches } from "../../Reuse/Functions";
 
 export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
   const [holdCabinets, setHoldCabinets] = React.useState(cabinet);
-  console.log(cabinet);
+  const [cabList, setCabList] = React.useState([]);
 
   function Add(e) {
     e.preventDefault();
@@ -43,7 +44,6 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
               // checks if the row is open for edit
               if (!item.open) {
                 rows = ["Name"];
-                console.log(rows);
               }
               return (
                 <div key={index}>
@@ -67,6 +67,35 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
 
                     if (key === "Operation" || key === "Object" || key === "open") {
                       return null;
+                    } else if (key === "Model") {
+                      // input does a fuzzy seach on the Cab array and presents the best 8 matches to the user to select from and updates the holdCabinets array make and model
+                      return (
+                        <div key={innerIndex}>
+                          <label>{key}</label>
+
+                          <input
+                            type="text"
+                            value={item[key]}
+                            onChange={(e) => {
+                              let TempCabinet = [...holdCabinets];
+                              TempCabinet[index][key] = e.target.value;
+                              setHoldCabinets(TempCabinet);
+                              setCabinet(TempCabinet);
+                              let holdArrayIndex = findClosestMatches(e.target.value, Cab);
+                              setCabList(holdArrayIndex);
+                            }}
+                            list="cab"
+                          />
+
+                          <datalist id="cab">
+                            {cabList.map((item, index) => {
+                              return <option key={index} value={Cab[item].MODEL} />;
+                            })}
+                          </datalist>
+
+                          {/* shows the button only on the Name key for edit */}
+                        </div>
+                      );
                     } else {
                       return (
                         <div key={innerIndex}>
@@ -76,7 +105,6 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
                             value={item[key]}
                             onChange={(e) => {
                               let TempCabinet = [...holdCabinets];
-                              console.log(TempCabinet);
                               TempCabinet[index][key] = e.target.value;
                               setHoldCabinets(TempCabinet);
                               setCabinet(TempCabinet);
