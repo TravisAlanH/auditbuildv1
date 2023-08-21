@@ -33,8 +33,11 @@ export function findClosestMatches(userInput, dataArray) {
 
   const scores = [];
 
+  userInput = userInput.replace(/[^\w\s]/gi, "").toUpperCase();
+
   dataArray.forEach((item, index) => {
-    const model = item["MODEL"] || "";
+    let model = item["MODEL"] || "";
+    model = model.replace(/[^\w\s]/gi, "").toUpperCase();
     const score = levenshteinDistance(userInput, model);
     scores.push({ index, score });
   });
@@ -44,6 +47,5 @@ export function findClosestMatches(userInput, dataArray) {
 
   // Return indices of the 8 closest matches
   const closestIndices = scores.slice(0, 8).map((entry) => entry.index);
-  console.log(closestIndices);
   return closestIndices;
 }

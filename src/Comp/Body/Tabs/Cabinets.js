@@ -2,7 +2,7 @@ import React from "react";
 import Cab from "../../../JSON/Step3";
 import { findClosestMatches } from "../../Reuse/Functions";
 
-export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
+export default function Cabinets({ cabinet, setCabinet, show, setShow, location, aisle }) {
   const [holdCabinets, setHoldCabinets] = React.useState(cabinet);
   const [cabList, setCabList] = React.useState([]);
 
@@ -35,21 +35,16 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
         // Large
         <div>
           <form>
-            {/* maps the array of cabinets */}
             {holdCabinets.map((item, index) => {
-              // sets the keys in index
               let allRows = Object.keys(item);
               let rows = allRows;
 
-              // checks if the row is open for edit
               if (!item.open) {
                 rows = ["Name"];
               }
               return (
                 <div key={index}>
-                  {/* maps the rows (keys in array of objects) in each array */}
                   {rows.map((key, innerIndex) => {
-                    // button for the edit
                     let editButton = (
                       <button
                         onClick={(e) => {
@@ -60,7 +55,6 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
                           setCabinet(TempCabinet);
                         }}
                       >
-                        {/* open or closed based on current mapped object */}
                         {holdCabinets[index].open ? "Close" : "Open"}
                       </button>
                     );
@@ -68,32 +62,72 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow }) {
                     if (key === "Operation" || key === "Object" || key === "open") {
                       return null;
                     } else if (key === "Model") {
-                      // input does a fuzzy seach on the Cab array and presents the best 8 matches to the user to select from and updates the holdCabinets array make and model
+                      //MODEL
                       return (
-                        <div key={innerIndex}>
-                          <label>{key}</label>
-
-                          <input
-                            type="text"
+                        <div>
+                          <label>{key}: </label>
+                          <div class="dropdown">
+                            <input
+                              type="text"
+                              className="dropbtn"
+                              value={item[key]}
+                              onChange={(e) => {
+                                let TempCabinet = [...holdCabinets];
+                                TempCabinet[index][key] = e.target.value;
+                                setHoldCabinets(TempCabinet);
+                                setCabinet(TempCabinet);
+                                let holdArrayIndex = findClosestMatches(e.target.value, Cab);
+                                setCabList(holdArrayIndex);
+                              }}
+                            />
+                            <div class="dropdown-content">
+                              {cabList.map((CabItem, Cabindex) => {
+                                return (
+                                  <button
+                                    key={Cabindex}
+                                    onClick={(e) => {
+                                      e.preventDefault();
+                                      let TempCabinet = [...holdCabinets];
+                                      TempCabinet[index]["Model"] = Cab[CabItem].MODEL;
+                                      TempCabinet[index]["Make"] = Cab[CabItem].MAKE;
+                                      setHoldCabinets(TempCabinet);
+                                      setCabinet(TempCabinet);
+                                      console.log(cabinet);
+                                    }}
+                                  >
+                                    {Cab[CabItem].MODEL}
+                                  </button>
+                                );
+                              })}
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    } else if (key === "RowLabel") {
+                      // ROW LABEL
+                      return (
+                        <div>
+                          <label>{key}: </label>
+                          {/* select dropdown that loops thorugh the aisle array objects and then through the rows array in each object for the options and updates the hold and cabinets  */}
+                          <select
                             value={item[key]}
                             onChange={(e) => {
                               let TempCabinet = [...holdCabinets];
                               TempCabinet[index][key] = e.target.value;
                               setHoldCabinets(TempCabinet);
                               setCabinet(TempCabinet);
-                              let holdArrayIndex = findClosestMatches(e.target.value, Cab);
-                              setCabList(holdArrayIndex);
                             }}
-                            list="cab"
-                          />
-
-                          <datalist id="cab">
-                            {cabList.map((item, index) => {
-                              return <option key={index} value={Cab[item].MODEL} />;
+                          >
+                            {aisle.map((item, index) => {
+                              return item.Rows.map((item, index) => {
+                                return (
+                                  <option key={index} value={item}>
+                                    {item}
+                                  </option>
+                                );
+                              });
                             })}
-                          </datalist>
-
-                          {/* shows the button only on the Name key for edit */}
+                          </select>
                         </div>
                       );
                     } else {
