@@ -4,6 +4,8 @@ import LabelInput from "../../Reuse/LabelInput";
 export default function Location({ aisle, setAisle, show, setShow }) {
   const [holdAisle, setHoldAisle] = React.useState(aisle);
 
+  console.log(aisle);
+
   function AddAisle(e) {
     e.preventDefault();
     let ARData = {
@@ -22,7 +24,8 @@ export default function Location({ aisle, setAisle, show, setShow }) {
     <div className="bg-slate-300">
       {show[1] === 0 ? (
         // Small
-        <div>
+        <div className="flex flex-row justify-between">
+          <h2>{aisle[0].Object}</h2>
           <button onClick={() => setShow([0, 1, 0, 0, 0, 0, 0, 0])}>Edit Aisle and Row</button>
         </div>
       ) : (
@@ -47,6 +50,7 @@ export default function Location({ aisle, setAisle, show, setShow }) {
                               let TempRow = [...holdAisle];
                               TempRow[index].Rows[RowIndex] = e.target.value;
                               setHoldAisle(TempRow);
+                              console.log(holdAisle);
                               setAisle(TempRow);
                             }}
                           />
@@ -64,6 +68,7 @@ export default function Location({ aisle, setAisle, show, setShow }) {
                     item.Rows.push("A" + (index + 1) + "R" + rowIndex);
                     rowIndex = item.Rows.length + 1;
                     setHoldAisle([...holdAisle]);
+                    setAisle([...holdAisle]);
                   }}
                 >
                   Add Row

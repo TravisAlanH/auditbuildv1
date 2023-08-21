@@ -5,6 +5,10 @@ import { findClosestMatches } from "../../Reuse/Functions";
 export default function Cabinets({ cabinet, setCabinet, show, setShow, location, aisle }) {
   const [holdCabinets, setHoldCabinets] = React.useState(cabinet);
   const [cabList, setCabList] = React.useState([]);
+  const [aisleList, setAisleList] = React.useState(aisle);
+
+  console.log(aisle);
+  console.log(aisleList);
 
   function Add(e) {
     e.preventDefault();
@@ -28,7 +32,8 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
     <div className="bg-slate-500">
       {show[3] === 0 ? (
         // Small
-        <div>
+        <div className="flex flex-row justify-between">
+          <h2>{cabinet[0].Object}</h2>
           <button onClick={() => setShow([0, 0, 0, 1, 0, 0, 0, 0])}>Edit Cabinets</button>
         </div>
       ) : (
@@ -47,6 +52,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                   {rows.map((key, innerIndex) => {
                     let editButton = (
                       <button
+                        key={innerIndex}
                         onClick={(e) => {
                           e.preventDefault();
                           let TempCabinet = [...holdCabinets];
@@ -66,7 +72,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                       return (
                         <div>
                           <label>{key}: </label>
-                          <div class="dropdown">
+                          <div className="dropdown">
                             <input
                               type="text"
                               className="dropbtn"
@@ -80,7 +86,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                                 setCabList(holdArrayIndex);
                               }}
                             />
-                            <div class="dropdown-content">
+                            <div className="dropdown-content">
                               {cabList.map((CabItem, Cabindex) => {
                                 return (
                                   <button

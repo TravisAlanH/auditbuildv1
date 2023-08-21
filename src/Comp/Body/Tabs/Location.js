@@ -31,7 +31,8 @@ export default function Location({ location, setLocation, show, setShow }) {
     <div className="bg-slate-200">
       {show[0] === 0 ? (
         // Small
-        <div>
+        <div className="flex flex-row justify-between">
+          <h2>{location.LocationName}</h2>
           <button onClick={() => setShow([1, 0, 0, 0, 0, 0, 0, 0])}>Edit Location</button>
         </div>
       ) : (
@@ -45,7 +46,20 @@ export default function Location({ location, setLocation, show, setShow }) {
               if (index < 2) {
                 return null;
               }
-              return <LabelInput key={index} Label={step + ": "} value={holdData[step]} />;
+              return (
+                <div key={index}>
+                  <label>{step}: </label>
+                  <input
+                    type="text"
+                    value={holdData[step]}
+                    onChange={(e) => {
+                      let TempData = { ...holdData };
+                      TempData[step] = e.target.value;
+                      setHoldData(TempData);
+                    }}
+                  />
+                </div>
+              );
             })}
             <input type="submit" value="Submit" />
           </form>
