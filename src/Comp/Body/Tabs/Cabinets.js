@@ -1,6 +1,7 @@
 import React from "react";
 import Cab from "../../../JSON/Step3";
 import { findClosestMatches } from "../../Reuse/Functions";
+import { AiOutlineDownCircle, AiOutlineUpCircle } from "react-icons/ai";
 
 export default function Cabinets({ cabinet, setCabinet, show, setShow, location, aisle }) {
   const [holdCabinets, setHoldCabinets] = React.useState(cabinet);
@@ -15,8 +16,8 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
       Make: "",
       Model: "",
       Location: "",
-      RowLabel: "",
-      PositionInRow: "",
+      Row: "",
+      InRow: "",
       open: false,
     };
     let TempAisle = [...holdCabinets];
@@ -25,7 +26,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
   }
 
   return (
-    <div className="bg-slate-500">
+    <div>
       {show[3] === 0 ? (
         // Small
         <div className="flex flex-row justify-between">
@@ -35,7 +36,10 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
       ) : (
         // Large
         <div>
-          <form>
+          <div>
+            <h3>CABINET</h3>
+          </div>
+          <form className="flex flex-col gap-2">
             {holdCabinets.map((item, index) => {
               let allRows = Object.keys(item);
               let rows = allRows;
@@ -57,7 +61,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                           setCabinet(TempCabinet);
                         }}
                       >
-                        {holdCabinets[index].open ? "Close" : "Open"}
+                        {holdCabinets[index].open ? <AiOutlineUpCircle className="text-3xl" /> : <AiOutlineDownCircle className="text-3xl" />}
                       </button>
                     );
 
@@ -66,7 +70,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                     } else if (key === "Model") {
                       //MODEL
                       return (
-                        <div key={index}>
+                        <div key={index} className="flex flex-row justify-between">
                           <label>{key}: </label>
                           <div className="dropdown">
                             <input
@@ -105,13 +109,14 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                           </div>
                         </div>
                       );
-                    } else if (key === "RowLabel") {
+                    } else if (key === "Row") {
                       // ROW LABEL
                       return (
-                        <div key={innerIndex}>
+                        <div key={innerIndex} className="flex flex-row justify-between">
                           <label>{key}: </label>
                           {/* select dropdown that loops thorugh the aisle array objects and then through the rows array in each object for the options and updates the hold and cabinets  */}
                           <select
+                            className="w-3/4"
                             value={item[key]}
                             onChange={(e) => {
                               let TempCabinet = [...holdCabinets];
@@ -134,9 +139,10 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                       );
                     } else {
                       return (
-                        <div key={innerIndex}>
+                        <div key={innerIndex} className="flex flex-row justify-between">
                           <label>{key}</label>
                           <input
+                            className="w-3/4"
                             type="text"
                             value={item[key]}
                             onChange={(e) => {

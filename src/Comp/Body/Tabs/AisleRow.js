@@ -21,7 +21,7 @@ export default function Location({ aisle, setAisle, show, setShow }) {
   }
 
   return (
-    <div className="bg-slate-300">
+    <div>
       {show[1] === 0 ? (
         // Small
         <div className="flex flex-row justify-between">
@@ -31,19 +31,23 @@ export default function Location({ aisle, setAisle, show, setShow }) {
       ) : (
         // Large
         <div>
+          <div>
+            <h3>SUBLOCATION</h3>
+          </div>
           {holdAisle.map((item, index) => {
             let rowIndex = item.Rows.length + 1;
             return (
-              <div key={index}>
-                <LabelInput Label={"Aisle Name: "} value={"Aisle" + (index + 1)} />
+              <div key={index} className="flex flex-col">
+                <LabelInput Label={"Aisle: "} value={"Aisle" + (index + 1)} />
                 {item.Rows.length !== 0 ? (
                   <div className="bg-slate-400">
                     {item.Rows.map((row, RowIndex) => {
                       return (
-                        <div key={RowIndex}>
+                        <div key={RowIndex} className="flex flex-row justify-between">
                           {/*  */}
-                          <label>Row Name: </label>
+                          <label>Row: </label>
                           <input
+                            className="w-3/4"
                             type="text"
                             value={row}
                             onChange={(e) => {

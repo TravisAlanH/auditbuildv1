@@ -4,8 +4,8 @@ export default function Location({ location, setLocation, show, setShow }) {
   const [holdData, setHoldData] = React.useState({
     Operation: "ADD",
     Object: "LOCATION",
-    LocationCode: "",
-    LocationName: "",
+    Code: "",
+    Name: "",
     Area: "",
     Country: "",
   });
@@ -17,9 +17,9 @@ export default function Location({ location, setLocation, show, setShow }) {
     setHoldData({
       Operation: "ADD",
       Object: "LOCATION",
-      LocationCode: e.target[0].value,
-      LocationName: e.target[1].value,
-      DataCenterArea: e.target[2].value,
+      Code: e.target[0].value,
+      Name: e.target[1].value,
+      Area: e.target[2].value,
       Country: e.target[3].value,
     });
     setLocation(holdData);
@@ -27,18 +27,18 @@ export default function Location({ location, setLocation, show, setShow }) {
   }
 
   return (
-    <div className="bg-slate-200">
+    <div>
       {show[0] === 0 ? (
         // Small
         <div className="flex flex-row justify-between">
-          <h2>{location.LocationName}</h2>
+          <h2>LOCATION</h2>
           <button onClick={() => setShow([1, 0, 0, 0, 0, 0, 0, 0])}>Edit Location</button>
         </div>
       ) : (
         // Large
         <div>
           <div>
-            <h3>{holdData.Object}</h3>
+            <h3>LOCATION</h3>
           </div>
           <form onSubmit={SubmitLocation}>
             {Object.keys(holdData).map((step, index) => {
@@ -46,9 +46,10 @@ export default function Location({ location, setLocation, show, setShow }) {
                 return null;
               }
               return (
-                <div key={index}>
+                <div key={index} className="flex flex-row justify-between">
                   <label>{step}: </label>
                   <input
+                    className="w-3/4"
                     type="text"
                     value={holdData[step]}
                     onChange={(e) => {

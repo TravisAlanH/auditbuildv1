@@ -2,7 +2,7 @@ import React from "react";
 
 export default function RackPDU({ show, setShow }) {
   return (
-    <div className="bg-slate-400">
+    <div>
       {show[2] === 0 ? (
         // Small
         <div>

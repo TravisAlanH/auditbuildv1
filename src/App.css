@@ -40,6 +40,9 @@
   font-size: 1.2rem;
 }
 
+.orangeSplit {
+  background: linear-gradient(290deg, #f59439 50%, #ffffff 50%);}
+
 .container {
   position: relative;
   display: flex;

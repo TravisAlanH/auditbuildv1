@@ -15,11 +15,18 @@ export default function Body() {
 
   return (
     <div>
-      <Location location={location} setLocation={setLocation} show={show} setShow={setShow} />
-
-      <AisleRow aisle={aisle} setAisle={setAisle} show={show} setShow={setShow} />
-      <Cabinets show={show} setShow={setShow} cabinet={cabinet} setCabinet={setCabinet} aisle={aisle} location={location} />
-      <RackPDU show={show} setShow={setShow} />
+      <div className="py-2 px-2 bg-slate-200">
+        <Location location={location} setLocation={setLocation} show={show} setShow={setShow} />
+      </div>
+      <div className="py-2 px-2 bg-slate-300">
+        <AisleRow aisle={aisle} setAisle={setAisle} show={show} setShow={setShow} />
+      </div>
+      <div className="py-2 px-2 bg-slate-400">
+        <Cabinets show={show} setShow={setShow} cabinet={cabinet} setCabinet={setCabinet} aisle={aisle} location={location} />
+      </div>
+      <div className="py-2 px-2 bg-slate-500">
+        <RackPDU show={show} setShow={setShow} />
+      </div>
     </div>
   );
 
