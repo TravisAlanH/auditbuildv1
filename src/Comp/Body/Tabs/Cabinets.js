@@ -123,12 +123,9 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                             {aisle.map((item, index) => {
                               return item.Rows.map((item, index) => {
                                 return (
-                                  <div key={index}>
-                                    return (
-                                    <option key={index} value={item}>
-                                      {item}
-                                    </option>
-                                  </div>
+                                  <option key={index} value={item}>
+                                    {item}
+                                  </option>
                                 );
                               });
                             })}
