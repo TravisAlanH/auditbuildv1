@@ -4,6 +4,7 @@ import React from "react";
 export default function Room({ location, setLocation }) {
   const [gps, setGPS] = React.useState("GPS Location");
   const [waterNoteView, setWaterNoteView] = React.useState(false);
+  const [saved, setSaved] = React.useState(true);
   // const [waterNote, setWaterNote] = React.useState("");
 
   function getLocation() {
@@ -17,7 +18,50 @@ export default function Room({ location, setLocation }) {
     setGPS(position.coords.latitude + ", " + position.coords.longitude);
   }
 
-  console.log(location);
+  function createTable(objectData) {
+    const table = document.getElementById("tableId");
+    const tableHeader = table.createTHead();
+    const headerRow = tableHeader.insertRow();
+
+    for (const key in objectData) {
+      if (key !== "Object") {
+        const th = document.createElement("th");
+        th.textContent = key;
+        headerRow.appendChild(th);
+      }
+    }
+
+    const tableBody = table.createTBody();
+    const bodyRow = tableBody.insertRow();
+
+    for (const key in objectData) {
+      if (key !== "Object") {
+        const td = document.createElement("td");
+        td.textContent = objectData[key];
+        bodyRow.appendChild(td);
+      }
+    }
+
+    return table;
+  }
+
+  function download_to_excel(e) {
+    var tab_text = "<table><tr>";
+    var textRange = "";
+    var j = 0;
+    var tab = document.getElementById("tableId");
+    for (j = 0; j < tab.rows.length; j++) {
+      tab_text += tab.rows[j].innerHTML + "</tr>";
+    }
+    tab_text += "</table>";
+    var a = document.createElement("a");
+    var data_type = "data:application/vnd.ms-excel";
+    a.href = data_type + ", " + encodeURIComponent(tab_text);
+    a.download = location.Name + "_Survey.xls";
+    a.click();
+    e.preventDefault();
+  }
+
   return (
     <div className="p-4">
       <div className="flex flex-row justify-center">{location.Name}</div>
@@ -57,11 +101,7 @@ export default function Room({ location, setLocation }) {
             <div>
               <label className="text-sm">Type: </label>
             </div>
-            <select className="w-3/4 border-4" name="FType">
-              <option value="">select</option>
-              <option value="1">1</option>
-              <option value="2">2</option>
-            </select>
+            <input type="text" className="w-3/4 border-4" name="FType" />
           </div>
         </div>
         {/* Condition */}
@@ -72,9 +112,9 @@ export default function Room({ location, setLocation }) {
             </div>
             <select className="w-3/4 border-4" name="FCondition">
               <option value="">select</option>
-
-              <option value="1">1</option>
-              <option value="2">2</option>
+              <option value="Good">Good</option>
+              <option value="Fair">Fair</option>
+              <option value="Poor">Poor</option>
             </select>
           </div>
         </div>
@@ -89,12 +129,7 @@ export default function Room({ location, setLocation }) {
             <div>
               <label className="text-sm">Type: </label>
             </div>
-            <select className="w-3/4 border-4" name="CType">
-              <option value="">select</option>
-
-              <option value="1">1</option>
-              <option value="2">2</option>
-            </select>
+            <input type="text" className="w-3/4 border-4" name="CType" />
           </div>
         </div>
         {/* Conditio  */}
@@ -105,9 +140,9 @@ export default function Room({ location, setLocation }) {
             </div>
             <select className="w-3/4 border-4" name="CCondition">
               <option value="">select</option>
-
-              <option value="1">1</option>
-              <option value="2">2</option>
+              <option value="Good">Good</option>
+              <option value="Fair">Fair</option>
+              <option value="Poor">Poor</option>
             </select>
           </div>
         </div>
@@ -138,7 +173,7 @@ export default function Room({ location, setLocation }) {
           onClick={() => {
             setLocation({
               ...location,
-              Name: document.getElementsByName("Num")[0].value,
+              RoomNum: document.getElementsByName("Num")[0].value,
               Area: document.getElementsByName("Area")[0].value,
               FType: document.getElementsByName("FType")[0].value,
               FCondition: document.getElementsByName("FCondition")[0].value,
@@ -148,11 +183,27 @@ export default function Room({ location, setLocation }) {
               // WaterNote: document.getElementsByName("WaterNote")[0].value,
               GPS: gps,
             });
+            let tableElement = createTable(location);
+            document.getElementById("holdTable").appendChild(tableElement);
+            setSaved(false);
           }}
         >
           Save
         </button>
-        <button className="border-4 w-full">Export</button>
+        <button
+          id="btnExport"
+          disabled={saved}
+          className="border-4 w-full"
+          onClick={(e) => {
+            console.log(location);
+            download_to_excel(e);
+          }}
+        >
+          Export
+        </button>
+      </div>
+      <div className="hidden" id="holdTable">
+        <table id="tableId" className="border-4"></table>
       </div>
     </div>
   );
