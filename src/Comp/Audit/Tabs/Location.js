@@ -49,7 +49,7 @@ export default function Location({ location, setLocation, show, setShow }) {
                 return null;
               }
               return (
-                <div key={index} className="flex flex-row justify-between">
+                <div key={index} className="flex flex-row justify-between py-1">
                   <label>{step}: </label>
                   <input
                     className="w-3/4"
