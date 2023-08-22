@@ -47,7 +47,7 @@ export default function Room({ location, setLocation }) {
 
   function download_to_excel(e) {
     var tab_text = "<table><tr>";
-    var textRange = "";
+    // var textRange = "";
     var j = 0;
     var tab = document.getElementById("tableId");
     for (j = 0; j < tab.rows.length; j++) {
