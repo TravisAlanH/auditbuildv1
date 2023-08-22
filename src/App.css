@@ -120,6 +120,22 @@
   display: block;
 }
 
+.dropdown-content-NAV a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content-NAV {
+  display: block;
+}
+
+.dropdown-content-NAV {
+  display: none;
+  position: absolute;
+  transform: translate(-70%, 0%);
+  background-color: #f9f9f9;
+  min-width: 160px;
+  width: 100%;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 2;
+}
 
 
 
