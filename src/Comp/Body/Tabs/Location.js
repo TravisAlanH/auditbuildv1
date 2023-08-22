@@ -1,5 +1,4 @@
 import React from "react";
-import LabelInput from "../../Reuse/LabelInput";
 
 export default function Location({ location, setLocation, show, setShow }) {
   const [holdData, setHoldData] = React.useState({
