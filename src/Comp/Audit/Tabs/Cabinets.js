@@ -1,7 +1,7 @@
 import React from "react";
 import Cab from "../../../JSON/Step3";
 import { findClosestMatches } from "../../Reuse/Functions";
-import { AiOutlineDownCircle, AiOutlineUpCircle } from "react-icons/ai";
+import { AiOutlineDownCircle, AiOutlineEdit, AiOutlineUpCircle } from "react-icons/ai";
 
 export default function Cabinets({ cabinet, setCabinet, show, setShow, location, aisle }) {
   const [holdCabinets, setHoldCabinets] = React.useState(cabinet);
@@ -31,7 +31,9 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
         // Small
         <div className="flex flex-row justify-between">
           <h2>{cabinet.length > 0 ? cabinet[0].Object : "Cabinet"}</h2>
-          <button onClick={() => setShow([0, 0, 0, 1, 0, 0, 0, 0])}>Edit Cabinets</button>
+          <button onClick={() => setShow([0, 0, 0, 1, 0, 0, 0, 0])} className="rounded-full bg-white w-8 h-8 flex flex-row justify-center items-center">
+            <AiOutlineEdit />
+          </button>
         </div>
       ) : (
         // Large
@@ -162,8 +164,10 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
               );
             })}
           </form>
-          <button onClick={Add}>Add Cabinet</button>
-          <button onClick={() => setShow([1, 0, 0, 0, 0, 0, 0, 0])}>Submit Cabinets</button>
+          <div className="flex flex-row justify-between">
+            <button onClick={Add}>Add Cabinet</button>
+            <button onClick={() => setShow([1, 0, 0, 0, 0, 0, 0, 0])}>Save</button>
+          </div>
         </div>
       )}
     </div>

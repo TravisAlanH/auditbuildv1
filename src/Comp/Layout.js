@@ -8,7 +8,7 @@ import Location from "./Audit/Tabs/Location";
 export default function Layout({ show, setShow, location, setLocation }) {
   return (
     <div>
-      <div className="bg-slate-200">
+      <div className="bg-slate-200 py-2 px-2">
         <Location show={show} setShow={setShow} location={location} setLocation={setLocation} />
       </div>
       <Outlet />

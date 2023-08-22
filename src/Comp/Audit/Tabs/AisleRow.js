@@ -1,5 +1,6 @@
 import React from "react";
 import LabelInput from "../../Reuse/LabelInput";
+import { AiOutlineEdit } from "react-icons/ai";
 
 export default function Location({ aisle, setAisle, show, setShow }) {
   const [holdAisle, setHoldAisle] = React.useState(aisle);
@@ -24,7 +25,9 @@ export default function Location({ aisle, setAisle, show, setShow }) {
         // Small
         <div className="flex flex-row justify-between">
           <h2>{aisle.length > 0 ? aisle[0].Object : "Aisle"}</h2>
-          <button onClick={() => setShow([0, 1, 0, 0, 0, 0, 0, 0])}>Edit Aisle and Row</button>
+          <button onClick={() => setShow([0, 1, 0, 0, 0, 0, 0, 0])} className="rounded-full bg-white w-8 h-8 flex flex-row justify-center items-center">
+            <AiOutlineEdit />
+          </button>
         </div>
       ) : (
         // Large
@@ -79,7 +82,7 @@ export default function Location({ aisle, setAisle, show, setShow }) {
             );
           })}
           <input type="hidden" value="END" />
-          <div className="flex flex-col">
+          <div className="flex flex-row justify-between">
             <button onClick={AddAisle}>Add Aisle</button>
             <button onClick={() => setShow([0, 0, 1, 0, 0, 0, 0, 0])}> Save</button>
           </div>

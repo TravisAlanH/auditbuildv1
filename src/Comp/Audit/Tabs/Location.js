@@ -1,13 +1,14 @@
 import React from "react";
+import { AiOutlineEdit } from "react-icons/ai";
 
 export default function Location({ location, setLocation, show, setShow }) {
   const [holdData, setHoldData] = React.useState({
     Operation: "ADD",
     Object: "LOCATION",
-    Code: "",
-    Name: "",
-    Area: "",
-    Country: "",
+    Code: location.Code ? location.Code : "",
+    Name: location.Name ? location.Name : "",
+    Area: location.Area ? location.Area : "",
+    Country: location.Country ? location.Country : "",
   });
 
   // const TemplateData = Steps.AddLocation;
@@ -32,7 +33,9 @@ export default function Location({ location, setLocation, show, setShow }) {
         // Small
         <div className="flex flex-row justify-between">
           <h2>LOCATION</h2>
-          <button onClick={() => setShow([1, 0, 0, 0, 0, 0, 0, 0])}>Edit Location</button>
+          <button onClick={() => setShow([1, 0, 0, 0, 0, 0, 0, 0])} className="rounded-full bg-white w-8 h-8 flex flex-row justify-center items-center">
+            <AiOutlineEdit />
+          </button>
         </div>
       ) : (
         // Large
@@ -56,12 +59,15 @@ export default function Location({ location, setLocation, show, setShow }) {
                       let TempData = { ...holdData };
                       TempData[step] = e.target.value;
                       setHoldData(TempData);
+                      setLocation(TempData);
                     }}
                   />
                 </div>
               );
             })}
-            <input type="submit" value="Submit" />
+            <div className="flex flex-row justify-end">
+              <input type="submit" value="Save" />
+            </div>
           </form>
         </div>
       )}

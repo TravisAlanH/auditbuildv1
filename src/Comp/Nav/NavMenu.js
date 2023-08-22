@@ -11,6 +11,9 @@ export default function NavMenu() {
         </div>
         <div className="dropdown-content-NAV px-3 py-1">
           <div className="flex flex-col justify-center items-center">
+            <Link to="/" className="w-full h-full">
+              Home
+            </Link>
             <Link to="/room" className="w-full h-full">
               Room
             </Link>

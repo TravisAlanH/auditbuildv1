@@ -227,7 +227,7 @@ export default function Room({ location, setLocation }) {
           Export
         </button>
       </div>
-      <div className="" id="holdTable">
+      <div className="hidden" id="holdTable">
         <table id="tableId" className="border-4"></table>
       </div>
     </div>
