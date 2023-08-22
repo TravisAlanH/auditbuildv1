@@ -14,6 +14,30 @@ export default function Room({ location, setLocation }) {
     }
   }
 
+  function ExportFormatData() {
+    return {
+      "# Operation *": location.Operation,
+      "Object *": location.Object,
+      "dcTrack Location Code*": location.Code,
+      "dcTrack Location Name*": location.Name,
+      "dcTrack Location Hierarchy*": "",
+      "dcTrack Location Parent*": "",
+      "Can Contain Assets": "",
+      "Data Center Area*": location.Area,
+      "Country*": location.Country,
+      "Enable AC Virtual Power Chain": "",
+      "Is Default Location": "",
+      "Capacity(kW)": "",
+      "Room Number": location.RoomNum,
+      "Floor Type": location.FType,
+      "Floor Condition": location.FCondition,
+      "Ceiling Type": location.CType,
+      "Ceiling Condition": location.CCondition,
+      "Water Damage": location.WaterDamage,
+      "GPS Location": location.GPS,
+    };
+  }
+
   function showPosition(position) {
     setGPS(position.coords.latitude + ", " + position.coords.longitude);
   }
@@ -183,8 +207,7 @@ export default function Room({ location, setLocation }) {
               // WaterNote: document.getElementsByName("WaterNote")[0].value,
               GPS: gps,
             });
-            let tableElement = createTable(location);
-            document.getElementById("holdTable").appendChild(tableElement);
+            console.log(location);
             setSaved(false);
           }}
         >
@@ -196,13 +219,15 @@ export default function Room({ location, setLocation }) {
           className="border-4 w-full"
           onClick={(e) => {
             console.log(location);
+            let tableElement = createTable(ExportFormatData());
+            document.getElementById("holdTable").appendChild(tableElement);
             download_to_excel(e);
           }}
         >
           Export
         </button>
       </div>
-      <div className="hidden" id="holdTable">
+      <div className="" id="holdTable">
         <table id="tableId" className="border-4"></table>
       </div>
     </div>
