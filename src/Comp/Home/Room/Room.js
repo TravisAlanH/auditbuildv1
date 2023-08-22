@@ -95,7 +95,7 @@ export default function Room({ location, setLocation }) {
             </select>
           </div>
         </div>
-        {/* Condition */}
+        {/* Conditio  */}
         <div className="flex flex-row justify-end">
           <div className="w-full flex flex-col items-end">
             <div>
