@@ -5,13 +5,9 @@ import AisleRow from "./Tabs/AisleRow";
 import RackPDU from "./Tabs/RackPDU";
 import Cabinets from "./Tabs/Cabinets";
 
-export default function Audit() {
-  const [show, setShow] = React.useState([1, 0, 0, 0, 0, 0, 0, 0]);
-  const [location, setLocation] = React.useState([]);
+export default function Audit({ location, setLocation, show, setShow }) {
   const [aisle, setAisle] = React.useState([]);
   const [cabinet, setCabinet] = React.useState([]);
-
-  console.log(aisle);
 
   return (
     <div>

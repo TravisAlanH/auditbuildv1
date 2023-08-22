@@ -4,8 +4,6 @@ import LabelInput from "../../Reuse/LabelInput";
 export default function Location({ aisle, setAisle, show, setShow }) {
   const [holdAisle, setHoldAisle] = React.useState(aisle);
 
-  console.log(aisle);
-
   function AddAisle(e) {
     e.preventDefault();
     let ARData = {
