@@ -5,10 +5,6 @@ import { findClosestMatches } from "../../Reuse/Functions";
 export default function Cabinets({ cabinet, setCabinet, show, setShow, location, aisle }) {
   const [holdCabinets, setHoldCabinets] = React.useState(cabinet);
   const [cabList, setCabList] = React.useState([]);
-  const [aisleList, setAisleList] = React.useState(aisle);
-
-  console.log(aisle);
-  console.log(aisleList);
 
   function Add(e) {
     e.preventDefault();
