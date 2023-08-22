@@ -25,7 +25,7 @@ export default function Location({ aisle, setAisle, show, setShow }) {
       {show[1] === 0 ? (
         // Small
         <div className="flex flex-row justify-between">
-          <h2>{aisle[0].Object}</h2>
+          <h2>{aisle.length > 0 ? aisle[0].Object : "Aisle"}</h2>
           <button onClick={() => setShow([0, 1, 0, 0, 0, 0, 0, 0])}>Edit Aisle and Row</button>
         </div>
       ) : (

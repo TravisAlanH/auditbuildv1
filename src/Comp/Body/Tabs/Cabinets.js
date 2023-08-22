@@ -29,7 +29,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
       {show[3] === 0 ? (
         // Small
         <div className="flex flex-row justify-between">
-          <h2>{cabinet[0].Object}</h2>
+          <h2>{cabinet.length > 0 ? cabinet[0].Object : "Cabinet"}</h2>
           <button onClick={() => setShow([0, 0, 0, 1, 0, 0, 0, 0])}>Edit Cabinets</button>
         </div>
       ) : (
@@ -66,7 +66,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                     } else if (key === "Model") {
                       //MODEL
                       return (
-                        <div>
+                        <div key={index}>
                           <label>{key}: </label>
                           <div className="dropdown">
                             <input
@@ -108,7 +108,7 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                     } else if (key === "RowLabel") {
                       // ROW LABEL
                       return (
-                        <div>
+                        <div key={innerIndex}>
                           <label>{key}: </label>
                           {/* select dropdown that loops thorugh the aisle array objects and then through the rows array in each object for the options and updates the hold and cabinets  */}
                           <select
@@ -122,11 +122,13 @@ export default function Cabinets({ cabinet, setCabinet, show, setShow, location,
                           >
                             {aisle.map((item, index) => {
                               return item.Rows.map((item, index) => {
-                                return (
+                                <div key={index}>
+                                  return (
                                   <option key={index} value={item}>
                                     {item}
                                   </option>
-                                );
+                                  );
+                                </div>;
                               });
                             })}
                           </select>
