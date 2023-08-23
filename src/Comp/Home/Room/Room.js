@@ -94,7 +94,7 @@ export default function Room({ location, setLocation }) {
       <div className="flex flex-row justify-around">
         <label className="text-sm">Room / ATG Number: </label>
         {/* <div className="flex flex-row justify-end"> */}
-        <input type="text" defaultValue={location.RoomNum ? location.RoomNum : ""} name="Num" className="w-1/2 border-4" />
+        <input type="text" defaultValue={location.RoomNum ? location.RoomNum : ""} name="Num" className="w-3/4 border-4" />
         {/* </div> */}
       </div>
 
@@ -199,7 +199,6 @@ export default function Room({ location, setLocation }) {
               // WaterNote: document.getElementsByName("WaterNote")[0].value,
               GPS: gps,
             });
-            console.log(location);
             setSaved(false);
           }}
         >

@@ -2,13 +2,10 @@ import React from "react";
 import Room from "./Room";
 
 export default function Tables({ location, setLocation }) {
-  let data = [
-    ["RoomNum", "FType"],
-    ["RoomNum", "FType"],
-    ["RoomNum", "FType"],
-  ];
-  console.log(location);
-  const array = [<Room location={location} setLocation={setLocation} />, <Room location={location} setLocation={setLocation} />, <Room location={location} setLocation={setLocation} />];
+  let data = [["RoomNum", "FType"]];
+  const translationData = [{ "RoomNum": "Room Number", "FType": "Floor Type" }];
+
+  const array = [<Room location={location} setLocation={setLocation} />];
   return (
     <div className="flex flex-row justify-center items-center pt-4">
       <div className="grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 gap-4 lg:gap-8 md:gap-8">
@@ -38,21 +35,27 @@ export default function Tables({ location, setLocation }) {
               <div className="flex flex-col w-full h-full">
                 <div className="flex flex-row w-full justify-start items-center gap-4 h-[3rem]">
                   <div className="flex flex-row justify-center items-center w-[3rem] h-[3rem] rounded-full">
-                    <p>L</p>
+                    <p>I</p>
                   </div>
-                  <p>Name</p>
+                  <p>Basic Location Information</p>
                 </div>
                 <div className="px-4">
                   <div>
                     <p className="text-sm">Actions</p>
                   </div>
                   <div className="flex flex-row justify-between">
-                    <div className="flex flex-row gap-4">
-                      {data[index].map((item, index) => {
-                        return location[item] === "" ? <p key={index}>{item}</p> : "";
+                    <div className="flex flex-row h-[2rem] overflow-x-scroll">
+                      {data[index].map((item, neededIndex) => {
+                        return location[item] === "" ? (
+                          <div className="min-w-[8rem] h-[2rem]" key={neededIndex}>
+                            {translationData[index][item]}
+                          </div>
+                        ) : (
+                          ""
+                        );
                       })}
                     </div>
-                    <div>E</div>
+                    <div className="w-[10%]">Edit</div>
                   </div>
                 </div>
               </div>
