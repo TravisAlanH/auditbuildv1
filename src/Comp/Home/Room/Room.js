@@ -5,7 +5,6 @@ export default function Room({ location, setLocation }) {
   const [gps, setGPS] = React.useState("GPS Location");
   const [waterNoteView, setWaterNoteView] = React.useState(false);
   const [saved, setSaved] = React.useState(true);
-  // const [waterNote, setWaterNote] = React.useState("");
 
   function getLocation() {
     if (navigator.geolocation) {
@@ -34,6 +33,7 @@ export default function Room({ location, setLocation }) {
       "Ceiling Type": location.CType,
       "Ceiling Condition": location.CCondition,
       "Water Damage": location.WaterDamage,
+      // "Water Damage Note": location.WaterNote,
       "GPS Location": location.GPS,
     };
   }
@@ -94,7 +94,7 @@ export default function Room({ location, setLocation }) {
       <div className="flex flex-row justify-around">
         <label className="text-sm">Room / ATG Number: </label>
         {/* <div className="flex flex-row justify-end"> */}
-        <input type="text" defaultValue={""} name="Num" className="w-1/2 border-4" />
+        <input type="text" defaultValue={location.RoomNum ? location.RoomNum : ""} name="Num" className="w-1/2 border-4" />
         {/* </div> */}
       </div>
 
@@ -125,7 +125,7 @@ export default function Room({ location, setLocation }) {
             <div>
               <label className="text-sm">Type: </label>
             </div>
-            <input type="text" className="w-3/4 border-4" name="FType" />
+            <input type="text" defaultValue={location.FType ? location.FType : ""} className="w-3/4 border-4" name="FType" />
           </div>
         </div>
         {/* Condition */}
@@ -134,7 +134,7 @@ export default function Room({ location, setLocation }) {
             <div>
               <label className="text-sm">Condition: </label>
             </div>
-            <select className="w-3/4 border-4" name="FCondition">
+            <select className="w-3/4 border-4" name="FCondition" defaultValue={location.FCondition || ""}>
               <option value="">select</option>
               <option value="Good">Good</option>
               <option value="Fair">Fair</option>
@@ -153,7 +153,7 @@ export default function Room({ location, setLocation }) {
             <div>
               <label className="text-sm">Type: </label>
             </div>
-            <input type="text" className="w-3/4 border-4" name="CType" />
+            <input type="text" className="w-3/4 border-4" name="CType" defaultValue={location.CType ? location.CType : ""} />
           </div>
         </div>
         {/* Conditio  */}
@@ -162,7 +162,7 @@ export default function Room({ location, setLocation }) {
             <div>
               <label className="text-sm">Condition: </label>
             </div>
-            <select className="w-3/4 border-4" name="CCondition">
+            <select className="w-3/4 border-4" name="CCondition" defaultValue={location.CCondition || ""}>
               <option value="">select</option>
               <option value="Good">Good</option>
               <option value="Fair">Fair</option>
@@ -173,21 +173,13 @@ export default function Room({ location, setLocation }) {
 
         <div className="flex flex-row justify-end gap-2 pt-2">
           <label className="text-sm">Water Damage:</label>
-          <input type="checkbox" className="w-8 border-4" onChange={() => setWaterNoteView(!waterNoteView)} name="WaterDamage" />
+          <input type="checkbox" className="w-8 border-4" onChange={() => setWaterNoteView(!waterNoteView)} name="WaterDamage" defaultValue={location.WaterDamage ? location.WaterDamage : ""} />
         </div>
-        {/* {waterNoteView && (
+        {waterNoteView && (
           <div className="flex flex-row justify-end">
-            <textarea
-              type="text"
-              defaultValue={waterNote}
-              name="WaterNote"
-              className="w-3/4 border-4"
-              onChange={() => {
-                setWaterNote(document.getElementsByName("WaterNote")[0].value);
-              }}
-            />
+            <textarea type="text" defaultValue={location.WaterNote ? location.WaterNote : ""} name="WaterNote" className="w-3/4 border-4" />
           </div>
-        )} */}
+        )}
       </div>
 
       {/* END */}

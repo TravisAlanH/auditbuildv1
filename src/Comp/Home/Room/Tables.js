@@ -2,8 +2,9 @@ import React from "react";
 import Room from "./Room";
 
 export default function Tables({ location, setLocation }) {
-  let array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-
+  let data = [["RoomNum", "FType"]];
+  console.log(location);
+  const array = [<Room location={location} setLocation={setLocation} />];
   return (
     <div className="flex flex-row justify-center items-center pt-4">
       <div className="grid grid-cols-2 lg:grid-cols-4 md:grid-cols-3 gap-4 lg:gap-8 md:gap-8">
@@ -29,12 +30,20 @@ export default function Tables({ location, setLocation }) {
                 };
               }}
             >
+              {/* DATA IN BLOCK */}
+              <div className="flex flex-col justify-center items-start w-full h-full p-2">
+                <p>Missing</p>
+                {data[index].map((item, index) => {
+                  return location[item] === "" ? <p key={index}>{item}</p> : "";
+                })}
+              </div>
+              {/* MODAL */}
               <div className="modal" id={"modal" + index}>
                 <div className="modal-content">
                   <span className="close" id={"close" + index}>
                     &times;
                   </span>
-                  <Room location={location} setLocation={setLocation} />
+                  {item}
                 </div>
               </div>
             </div>
