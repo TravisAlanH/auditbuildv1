@@ -2,10 +2,11 @@ import "./App.css";
 import Layout from "./Comp/Layout";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Audit from "./Comp/Audit/Audit";
-import Room from "./Comp/Home/Room/Room";
+// import Room from "./Comp/Home/Room/Room";
 import Assets from "./Comp/Home/Assets/Assets";
 import Nav from "./Comp/Nav/Nav";
 import React from "react";
+import Survey from "./Comp/Home/Room/Survey";
 
 function App() {
   const [location, setLocation] = React.useState([]);
@@ -18,7 +19,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Layout show={show} setShow={setShow} location={location} setLocation={setLocation} />} />
           <Route path="/audit" element={<Audit location={location} setLocation={setLocation} show={show} setShow={setShow} />} />
-          <Route path="/room" element={<Room location={location} setLocation={setLocation} />} />
+          <Route path="/room" element={<Survey location={location} setLocation={setLocation} />} />
           <Route path="/assets" element={<Assets location={location} setLocation={setLocation} />} />
         </Routes>
       </BrowserRouter>

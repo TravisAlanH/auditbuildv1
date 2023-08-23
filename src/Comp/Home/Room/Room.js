@@ -88,14 +88,14 @@ export default function Room({ location, setLocation }) {
 
   return (
     <div className="p-4">
-      <div className="flex flex-row justify-center">{location.Name}</div>
+      <div className="flex flex-row justify-center">{location.Name ? location.Name : ""}</div>
 
       {/* Room Number */}
-      <div className="flex flex-col justify-between">
+      <div className="flex flex-row justify-around">
         <label className="text-sm">Room / ATG Number: </label>
-        <div className="flex flex-row justify-end">
-          <input type="text" defaultValue={""} name="Num" className="w-3/4 border-4" />
-        </div>
+        {/* <div className="flex flex-row justify-end"> */}
+        <input type="text" defaultValue={""} name="Num" className="w-1/2 border-4" />
+        {/* </div> */}
       </div>
 
       {/* GPS Location */}
